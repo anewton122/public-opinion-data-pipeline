@@ -1,0 +1,2001 @@
+respondent_id,gender,race,age_group,education,income,policy_support
+1,Male,White,45-59,Bachelors,$40K-79K,0
+2,Female,White,60+,High school or less,$40K-79K,0
+3,Female,Hispanic,60+,Graduate degree,<40K,0
+4,Female,White,18-29,Bachelors,$80K+,0
+5,Male,White,18-29,High school or less,$40K-79K,0
+6,Male,Hispanic,30-44,Graduate degree,$40K-79K,0
+7,Male,White,30-44,Some college,$80K+,1
+8,Female,Hispanic,30-44,High school or less,<40K,0
+9,Female,White,45-59,Bachelors,$40K-79K,1
+10,Female,White,18-29,Some college,<40K,1
+11,Male,White,18-29,Bachelors,$80K+,0
+12,Female,White,30-44,Bachelors,$40K-79K,1
+13,Female,Hispanic,45-59,Graduate degree,$40K-79K,1
+14,Male,White,18-29,Some college,<40K,0
+15,Male,White,45-59,Some college,$40K-79K,0
+16,Male,White,30-44,Bachelors,$80K+,1
+17,Male,White,60+,High school or less,$40K-79K,0
+18,Female,Hispanic,60+,Some college,$40K-79K,0
+19,Male,White,30-44,Some college,$40K-79K,0
+20,Male,Black,30-44,High school or less,$80K+,0
+21,Female,Other,30-44,Some college,$40K-79K,0
+22,Male,White,30-44,Graduate degree,$80K+,1
+23,Male,Asian,45-59,Graduate degree,$80K+,0
+24,Male,White,60+,High school or less,$40K-79K,0
+25,Male,White,45-59,High school or less,<40K,1
+26,Female,White,60+,Some college,$40K-79K,0
+27,Male,Hispanic,30-44,Graduate degree,$80K+,0
+28,Female,Other,18-29,High school or less,<40K,1
+29,Female,White,45-59,Bachelors,$40K-79K,1
+30,Male,Black,30-44,High school or less,$80K+,1
+31,Female,White,45-59,Bachelors,$40K-79K,0
+32,Male,White,30-44,Some college,$40K-79K,1
+33,Male,White,18-29,Bachelors,<40K,1
+34,Female,Other,60+,High school or less,<40K,1
+35,Female,Black,18-29,Bachelors,$80K+,1
+36,Female,White,60+,High school or less,<40K,0
+37,Male,White,60+,Bachelors,<40K,1
+38,Male,White,60+,Graduate degree,$80K+,0
+39,Female,White,45-59,High school or less,$40K-79K,0
+40,Male,White,45-59,Graduate degree,$80K+,1
+41,Male,Hispanic,60+,Some college,$80K+,1
+42,Female,White,30-44,High school or less,<40K,0
+43,Male,White,45-59,Some college,<40K,0
+44,Female,White,45-59,High school or less,$40K-79K,0
+45,Male,Hispanic,30-44,Bachelors,$40K-79K,1
+46,Female,Black,30-44,Bachelors,<40K,0
+47,Male,White,30-44,High school or less,$40K-79K,0
+48,Female,Black,45-59,Some college,<40K,0
+49,Female,White,60+,Bachelors,$80K+,1
+50,Male,White,30-44,Graduate degree,<40K,1
+51,Female,White,60+,Some college,<40K,1
+52,Female,White,45-59,Graduate degree,<40K,0
+53,Female,White,60+,Some college,$80K+,1
+54,Female,Asian,45-59,Some college,$40K-79K,0
+55,Female,Hispanic,60+,Bachelors,$80K+,0
+56,Female,Black,18-29,Some college,$40K-79K,0
+57,Male,White,60+,Some college,$40K-79K,0
+58,Male,White,18-29,Some college,<40K,1
+59,Male,Black,60+,Bachelors,$40K-79K,0
+60,Male,White,60+,Bachelors,$40K-79K,0
+61,Male,White,30-44,Some college,$40K-79K,0
+62,Male,White,30-44,Some college,<40K,0
+63,Female,Hispanic,60+,Some college,$80K+,0
+64,Male,White,30-44,Some college,<40K,0
+65,Male,White,60+,High school or less,$80K+,0
+66,Female,Hispanic,18-29,Bachelors,<40K,1
+67,Male,White,18-29,Some college,$40K-79K,0
+68,Female,White,60+,Some college,$40K-79K,1
+69,Male,White,45-59,High school or less,$40K-79K,0
+70,Female,White,60+,High school or less,$40K-79K,1
+71,Female,Hispanic,30-44,Graduate degree,$40K-79K,1
+72,Male,White,45-59,Some college,$40K-79K,1
+73,Male,White,45-59,High school or less,$40K-79K,1
+74,Female,Hispanic,45-59,Some college,$40K-79K,0
+75,Female,Hispanic,45-59,Some college,$80K+,1
+76,Female,Hispanic,45-59,High school or less,<40K,0
+77,Female,White,30-44,Some college,$40K-79K,0
+78,Male,White,30-44,Some college,$40K-79K,0
+79,Male,Other,60+,Some college,$40K-79K,0
+80,Male,Hispanic,30-44,Some college,$40K-79K,1
+81,Female,White,45-59,Some college,$40K-79K,0
+82,Female,White,30-44,Graduate degree,<40K,0
+83,Male,White,45-59,Some college,<40K,1
+84,Male,Hispanic,45-59,Some college,<40K,0
+85,Male,White,30-44,High school or less,$40K-79K,0
+86,Male,White,18-29,Some college,$40K-79K,0
+87,Female,White,18-29,Bachelors,$80K+,0
+88,Female,Black,45-59,High school or less,$40K-79K,0
+89,Female,Hispanic,60+,Bachelors,<40K,1
+90,Male,White,18-29,High school or less,$80K+,1
+91,Male,Hispanic,45-59,Some college,$80K+,0
+92,Female,Other,30-44,Bachelors,$40K-79K,0
+93,Female,White,45-59,Some college,$40K-79K,0
+94,Female,White,60+,Some college,$80K+,1
+95,Female,White,30-44,High school or less,$40K-79K,1
+96,Female,Hispanic,45-59,Bachelors,$80K+,0
+97,Female,White,18-29,High school or less,<40K,0
+98,Male,Black,18-29,Graduate degree,<40K,1
+99,Male,Hispanic,30-44,High school or less,$40K-79K,0
+100,Male,White,18-29,Graduate degree,$40K-79K,1
+101,Male,Asian,45-59,Some college,$80K+,0
+102,Female,White,30-44,Bachelors,$80K+,0
+103,Male,White,45-59,Some college,$40K-79K,1
+104,Female,Black,18-29,Graduate degree,<40K,0
+105,Female,Hispanic,30-44,High school or less,$80K+,1
+106,Male,White,45-59,High school or less,$40K-79K,0
+107,Male,Hispanic,60+,Some college,<40K,0
+108,Female,Hispanic,18-29,High school or less,$40K-79K,0
+109,Male,White,60+,High school or less,$40K-79K,0
+110,Male,Other,45-59,Graduate degree,$80K+,0
+111,Male,White,45-59,Graduate degree,$40K-79K,0
+112,Male,White,45-59,Some college,$40K-79K,0
+113,Female,White,18-29,Graduate degree,$80K+,0
+114,Female,Hispanic,18-29,Some college,$40K-79K,0
+115,Female,Black,45-59,Some college,$40K-79K,0
+116,Female,White,30-44,Bachelors,<40K,0
+117,Female,White,60+,Bachelors,$40K-79K,0
+118,Male,Black,30-44,Graduate degree,<40K,1
+119,Female,White,18-29,Some college,<40K,0
+120,Female,Hispanic,45-59,Bachelors,$40K-79K,1
+121,Female,Hispanic,30-44,High school or less,<40K,0
+122,Female,White,45-59,High school or less,$40K-79K,0
+123,Male,Other,45-59,High school or less,<40K,1
+124,Male,White,60+,Graduate degree,$40K-79K,1
+125,Male,Other,60+,Bachelors,<40K,0
+126,Male,Black,45-59,Bachelors,<40K,1
+127,Female,Black,45-59,Some college,<40K,0
+128,Female,White,60+,Some college,$80K+,1
+129,Male,Hispanic,30-44,High school or less,$80K+,1
+130,Female,White,18-29,Some college,<40K,1
+131,Male,White,30-44,Some college,$80K+,0
+132,Male,White,30-44,Bachelors,$40K-79K,1
+133,Male,White,45-59,Some college,$80K+,1
+134,Male,White,45-59,High school or less,$40K-79K,0
+135,Female,Black,45-59,High school or less,$40K-79K,0
+136,Male,Hispanic,18-29,High school or less,<40K,0
+137,Female,White,45-59,Some college,$40K-79K,0
+138,Female,Hispanic,30-44,Graduate degree,$80K+,0
+139,Male,White,45-59,Bachelors,$40K-79K,1
+140,Female,Hispanic,45-59,Bachelors,<40K,0
+141,Female,Hispanic,30-44,Some college,<40K,0
+142,Male,White,18-29,Some college,$40K-79K,1
+143,Female,Black,18-29,High school or less,$40K-79K,1
+144,Male,White,60+,Graduate degree,$40K-79K,0
+145,Male,White,60+,Bachelors,$80K+,1
+146,Male,Hispanic,45-59,High school or less,<40K,1
+147,Female,White,18-29,Some college,$40K-79K,1
+148,Female,White,30-44,Some college,$80K+,1
+149,Male,White,45-59,Bachelors,$40K-79K,1
+150,Male,Hispanic,60+,Graduate degree,<40K,0
+151,Female,White,18-29,Some college,$40K-79K,1
+152,Male,White,18-29,Some college,$80K+,1
+153,Male,Black,45-59,High school or less,<40K,0
+154,Male,Hispanic,30-44,High school or less,$80K+,0
+155,Female,White,30-44,High school or less,$80K+,1
+156,Male,White,18-29,High school or less,<40K,0
+157,Female,White,45-59,Bachelors,$40K-79K,0
+158,Female,White,60+,Bachelors,$40K-79K,0
+159,Male,White,60+,High school or less,$40K-79K,1
+160,Female,Hispanic,45-59,Bachelors,$80K+,1
+161,Male,Black,45-59,High school or less,$80K+,0
+162,Female,Black,18-29,Some college,<40K,0
+163,Female,White,45-59,High school or less,$40K-79K,0
+164,Female,Hispanic,30-44,Some college,$40K-79K,0
+165,Male,White,45-59,Some college,$40K-79K,1
+166,Female,Other,30-44,Some college,$40K-79K,0
+167,Male,Black,30-44,Some college,<40K,0
+168,Male,White,18-29,Graduate degree,$40K-79K,1
+169,Male,Black,30-44,High school or less,$40K-79K,0
+170,Female,White,18-29,High school or less,<40K,0
+171,Female,Black,18-29,High school or less,$80K+,0
+172,Male,White,60+,Bachelors,$80K+,0
+173,Female,White,30-44,High school or less,$40K-79K,0
+174,Male,Hispanic,45-59,Bachelors,<40K,0
+175,Female,White,60+,Some college,$40K-79K,0
+176,Male,Hispanic,60+,Some college,<40K,0
+177,Female,White,45-59,Some college,<40K,1
+178,Male,Black,60+,High school or less,$40K-79K,0
+179,Female,Black,30-44,High school or less,<40K,0
+180,Male,White,30-44,Some college,<40K,1
+181,Male,White,30-44,Some college,<40K,1
+182,Male,White,45-59,High school or less,<40K,0
+183,Female,White,45-59,High school or less,<40K,0
+184,Female,White,30-44,Graduate degree,$80K+,1
+185,Male,Black,18-29,High school or less,<40K,0
+186,Female,Asian,45-59,Bachelors,<40K,0
+187,Female,Hispanic,18-29,Bachelors,<40K,1
+188,Female,Hispanic,45-59,Some college,$80K+,1
+189,Female,Hispanic,45-59,High school or less,$40K-79K,0
+190,Male,Black,45-59,High school or less,$40K-79K,0
+191,Male,White,60+,Bachelors,$80K+,1
+192,Female,Hispanic,60+,Bachelors,$40K-79K,0
+193,Female,Black,45-59,Bachelors,$40K-79K,0
+194,Female,White,45-59,Graduate degree,<40K,1
+195,Male,White,45-59,Bachelors,$40K-79K,0
+196,Male,White,18-29,High school or less,$40K-79K,1
+197,Female,White,18-29,High school or less,$40K-79K,1
+198,Female,Hispanic,30-44,Bachelors,<40K,1
+199,Female,White,30-44,High school or less,$40K-79K,0
+200,Female,White,45-59,High school or less,<40K,0
+201,Female,Other,60+,Bachelors,<40K,0
+202,Male,White,18-29,Some college,$40K-79K,1
+203,Male,White,18-29,Graduate degree,$80K+,1
+204,Female,White,60+,Bachelors,$40K-79K,0
+205,Female,Hispanic,18-29,High school or less,$40K-79K,0
+206,Male,Asian,45-59,Graduate degree,<40K,0
+207,Male,White,45-59,Some college,<40K,1
+208,Female,Hispanic,45-59,Some college,<40K,0
+209,Male,White,18-29,Some college,$40K-79K,1
+210,Male,Asian,18-29,High school or less,<40K,1
+211,Female,Hispanic,18-29,Some college,<40K,1
+212,Female,Hispanic,45-59,High school or less,$80K+,0
+213,Female,White,45-59,Some college,<40K,0
+214,Male,Other,30-44,Some college,$40K-79K,1
+215,Female,Black,45-59,Bachelors,$40K-79K,1
+216,Male,White,60+,Bachelors,$40K-79K,1
+217,Male,Hispanic,18-29,High school or less,$40K-79K,1
+218,Female,White,45-59,Some college,$40K-79K,0
+219,Female,Hispanic,45-59,Some college,<40K,0
+220,Female,White,30-44,High school or less,$40K-79K,0
+221,Female,Black,30-44,Bachelors,$80K+,1
+222,Female,White,45-59,Bachelors,<40K,1
+223,Male,White,60+,High school or less,<40K,1
+224,Male,White,60+,Some college,$80K+,0
+225,Male,White,45-59,High school or less,$40K-79K,0
+226,Male,White,45-59,Bachelors,$40K-79K,1
+227,Female,White,30-44,High school or less,$40K-79K,1
+228,Male,White,45-59,Graduate degree,<40K,1
+229,Female,White,45-59,Bachelors,$40K-79K,0
+230,Female,White,18-29,Some college,$40K-79K,0
+231,Female,Hispanic,45-59,Some college,<40K,0
+232,Female,White,45-59,Graduate degree,$40K-79K,0
+233,Female,Hispanic,30-44,Some college,$80K+,1
+234,Female,Hispanic,60+,High school or less,$40K-79K,0
+235,Male,Black,18-29,Some college,<40K,1
+236,Female,White,30-44,Bachelors,$40K-79K,1
+237,Male,Hispanic,18-29,Bachelors,$40K-79K,0
+238,Male,White,60+,Bachelors,$80K+,0
+239,Female,White,45-59,Graduate degree,$40K-79K,1
+240,Male,White,30-44,Graduate degree,<40K,0
+241,Female,Hispanic,45-59,Graduate degree,$40K-79K,0
+242,Female,White,30-44,High school or less,$40K-79K,0
+243,Female,White,60+,Some college,<40K,0
+244,Male,Other,45-59,Bachelors,$40K-79K,0
+245,Male,Hispanic,30-44,Bachelors,$40K-79K,0
+246,Female,White,60+,Bachelors,$40K-79K,1
+247,Male,White,30-44,High school or less,<40K,0
+248,Female,Hispanic,18-29,Bachelors,$40K-79K,1
+249,Female,White,45-59,Bachelors,$80K+,1
+250,Female,White,60+,High school or less,$80K+,0
+251,Male,White,30-44,Some college,$80K+,0
+252,Male,Hispanic,18-29,High school or less,$80K+,0
+253,Female,Black,30-44,Some college,<40K,0
+254,Male,Hispanic,45-59,High school or less,$40K-79K,0
+255,Male,Hispanic,18-29,Some college,$40K-79K,1
+256,Female,White,45-59,Some college,$80K+,0
+257,Female,White,60+,Bachelors,<40K,0
+258,Female,White,45-59,Bachelors,$80K+,0
+259,Female,White,30-44,Bachelors,$40K-79K,1
+260,Male,White,30-44,High school or less,$80K+,0
+261,Female,Hispanic,18-29,High school or less,<40K,1
+262,Other,Black,60+,Graduate degree,<40K,0
+263,Male,Hispanic,30-44,High school or less,$80K+,1
+264,Female,White,30-44,Graduate degree,<40K,1
+265,Female,Black,45-59,Bachelors,$80K+,1
+266,Female,Black,30-44,Some college,<40K,0
+267,Female,White,45-59,Graduate degree,$40K-79K,0
+268,Female,Black,18-29,High school or less,$40K-79K,0
+269,Male,White,60+,Some college,$40K-79K,0
+270,Male,White,60+,Bachelors,$40K-79K,0
+271,Female,White,45-59,Some college,$40K-79K,0
+272,Female,White,60+,Graduate degree,<40K,0
+273,Female,White,18-29,High school or less,<40K,1
+274,Female,Black,45-59,Some college,$40K-79K,0
+275,Female,Asian,45-59,Some college,$40K-79K,1
+276,Female,Black,45-59,Bachelors,$40K-79K,0
+277,Female,Hispanic,30-44,Some college,$40K-79K,1
+278,Female,White,30-44,Some college,$40K-79K,1
+279,Female,Black,18-29,Bachelors,$40K-79K,0
+280,Female,White,30-44,High school or less,<40K,0
+281,Female,White,18-29,Bachelors,$40K-79K,0
+282,Male,White,45-59,Some college,$80K+,0
+283,Male,White,30-44,Bachelors,$80K+,0
+284,Male,White,18-29,Bachelors,$40K-79K,0
+285,Female,White,45-59,High school or less,$40K-79K,0
+286,Male,White,45-59,Some college,$80K+,0
+287,Male,Other,60+,Graduate degree,$40K-79K,0
+288,Female,White,45-59,Some college,<40K,0
+289,Male,White,30-44,Graduate degree,<40K,1
+290,Female,White,60+,Some college,$40K-79K,0
+291,Male,Black,45-59,High school or less,$80K+,0
+292,Male,White,18-29,Some college,$40K-79K,1
+293,Female,White,45-59,Graduate degree,<40K,0
+294,Male,White,60+,Some college,<40K,1
+295,Male,White,30-44,Graduate degree,$80K+,1
+296,Female,White,30-44,Graduate degree,$80K+,0
+297,Female,White,18-29,Some college,$40K-79K,1
+298,Male,White,18-29,High school or less,$40K-79K,0
+299,Female,White,30-44,Bachelors,<40K,0
+300,Male,White,45-59,Some college,$80K+,1
+301,Male,Hispanic,18-29,Bachelors,$80K+,0
+302,Female,White,60+,Some college,<40K,1
+303,Female,White,60+,Some college,$40K-79K,0
+304,Female,White,45-59,Bachelors,<40K,1
+305,Female,Asian,60+,Some college,<40K,0
+306,Female,White,18-29,Some college,<40K,1
+307,Female,White,45-59,Some college,<40K,1
+308,Male,Black,45-59,Some college,$40K-79K,0
+309,Female,White,60+,Some college,$40K-79K,1
+310,Male,White,60+,Bachelors,$40K-79K,0
+311,Male,White,30-44,Some college,$40K-79K,1
+312,Male,Hispanic,60+,Some college,<40K,0
+313,Male,White,18-29,Bachelors,<40K,1
+314,Female,Black,60+,Some college,$40K-79K,0
+315,Female,Other,60+,Some college,$40K-79K,1
+316,Female,White,18-29,Graduate degree,<40K,0
+317,Male,White,45-59,Bachelors,$80K+,1
+318,Male,White,18-29,Some college,$40K-79K,1
+319,Male,White,30-44,Bachelors,$80K+,0
+320,Male,White,45-59,High school or less,$40K-79K,0
+321,Female,Hispanic,45-59,Bachelors,<40K,0
+322,Female,Black,60+,Some college,$40K-79K,0
+323,Female,Black,45-59,Some college,<40K,1
+324,Male,White,45-59,Some college,$40K-79K,0
+325,Female,Hispanic,60+,High school or less,<40K,0
+326,Female,Asian,60+,High school or less,$80K+,0
+327,Female,Hispanic,18-29,Graduate degree,<40K,0
+328,Female,White,60+,Some college,$80K+,0
+329,Male,Black,18-29,Some college,$80K+,0
+330,Male,White,60+,High school or less,$40K-79K,1
+331,Male,White,30-44,High school or less,$40K-79K,1
+332,Female,White,18-29,Bachelors,$40K-79K,1
+333,Male,Black,30-44,Some college,$80K+,0
+334,Male,Black,45-59,Some college,$40K-79K,1
+335,Male,White,30-44,High school or less,$80K+,0
+336,Male,White,18-29,Bachelors,$40K-79K,0
+337,Female,White,45-59,High school or less,$80K+,0
+338,Female,White,60+,High school or less,$40K-79K,0
+339,Male,White,30-44,Some college,$40K-79K,0
+340,Male,White,30-44,Some college,$80K+,0
+341,Female,Hispanic,30-44,High school or less,$80K+,0
+342,Male,White,18-29,Bachelors,$40K-79K,0
+343,Male,White,60+,Bachelors,<40K,0
+344,Male,White,60+,Bachelors,$40K-79K,1
+345,Male,Asian,45-59,Some college,$80K+,0
+346,Female,Black,30-44,High school or less,$80K+,0
+347,Female,Black,60+,Some college,$80K+,0
+348,Male,White,45-59,Graduate degree,<40K,1
+349,Male,White,60+,Some college,$40K-79K,0
+350,Female,White,45-59,Bachelors,$40K-79K,0
+351,Female,Black,60+,High school or less,$80K+,0
+352,Female,Asian,45-59,Some college,<40K,1
+353,Female,Black,30-44,High school or less,$80K+,0
+354,Male,Hispanic,60+,Some college,$40K-79K,1
+355,Male,Black,45-59,Graduate degree,<40K,0
+356,Female,White,45-59,Graduate degree,$40K-79K,0
+357,Male,Hispanic,30-44,Some college,<40K,1
+358,Female,White,45-59,Some college,$40K-79K,0
+359,Female,White,45-59,Graduate degree,<40K,0
+360,Female,White,18-29,Bachelors,<40K,1
+361,Male,White,18-29,High school or less,$80K+,0
+362,Female,White,45-59,Some college,<40K,1
+363,Male,White,60+,High school or less,<40K,1
+364,Female,White,45-59,Some college,$40K-79K,1
+365,Female,White,30-44,Some college,$40K-79K,0
+366,Male,White,45-59,Some college,$80K+,0
+367,Female,White,18-29,Some college,$40K-79K,1
+368,Female,White,30-44,High school or less,$80K+,0
+369,Male,White,18-29,Some college,$40K-79K,0
+370,Male,Black,18-29,Bachelors,<40K,1
+371,Male,Black,30-44,Bachelors,<40K,0
+372,Male,Hispanic,30-44,Some college,$40K-79K,1
+373,Male,Black,18-29,Graduate degree,$40K-79K,1
+374,Female,White,30-44,Graduate degree,$40K-79K,0
+375,Male,Black,45-59,High school or less,$40K-79K,1
+376,Male,White,45-59,High school or less,$40K-79K,0
+377,Female,White,30-44,Bachelors,<40K,0
+378,Male,Hispanic,60+,Bachelors,<40K,0
+379,Female,White,18-29,Graduate degree,$40K-79K,0
+380,Male,Hispanic,45-59,Graduate degree,$40K-79K,1
+381,Male,Hispanic,18-29,Bachelors,$40K-79K,0
+382,Female,Hispanic,18-29,Some college,<40K,1
+383,Female,Asian,45-59,High school or less,$40K-79K,0
+384,Female,White,45-59,High school or less,$80K+,1
+385,Female,White,60+,Some college,<40K,1
+386,Female,White,45-59,Bachelors,$40K-79K,0
+387,Male,White,60+,Some college,$80K+,0
+388,Male,Black,18-29,Bachelors,$40K-79K,1
+389,Female,Black,18-29,Some college,$40K-79K,1
+390,Female,Black,18-29,Some college,<40K,1
+391,Other,White,18-29,High school or less,$40K-79K,1
+392,Male,White,45-59,Some college,<40K,0
+393,Male,White,45-59,Bachelors,$80K+,0
+394,Female,White,18-29,Bachelors,$40K-79K,1
+395,Male,Hispanic,60+,Graduate degree,$80K+,0
+396,Female,White,60+,Some college,$40K-79K,1
+397,Female,White,30-44,Some college,$40K-79K,0
+398,Male,White,18-29,Some college,$40K-79K,0
+399,Female,Black,18-29,Some college,$80K+,0
+400,Female,Black,18-29,Graduate degree,$80K+,0
+401,Male,White,18-29,Bachelors,$40K-79K,1
+402,Female,White,45-59,Graduate degree,$80K+,0
+403,Female,White,30-44,High school or less,$40K-79K,0
+404,Female,White,30-44,Graduate degree,$40K-79K,0
+405,Male,Black,60+,High school or less,$40K-79K,1
+406,Female,Black,45-59,Graduate degree,<40K,0
+407,Male,White,60+,Some college,<40K,0
+408,Male,White,18-29,Some college,<40K,1
+409,Female,Other,30-44,Some college,$40K-79K,1
+410,Male,White,45-59,Graduate degree,$40K-79K,0
+411,Male,Black,18-29,High school or less,$40K-79K,1
+412,Female,White,18-29,Some college,$80K+,0
+413,Female,White,45-59,Graduate degree,$40K-79K,0
+414,Female,White,45-59,Some college,$40K-79K,0
+415,Female,White,30-44,High school or less,<40K,1
+416,Male,Other,45-59,Some college,<40K,1
+417,Male,White,30-44,Some college,$80K+,0
+418,Male,White,18-29,Graduate degree,$40K-79K,1
+419,Female,White,30-44,Bachelors,$80K+,1
+420,Female,White,18-29,Some college,<40K,0
+421,Female,White,18-29,Graduate degree,$40K-79K,1
+422,Female,White,60+,Some college,<40K,0
+423,Male,Hispanic,45-59,High school or less,<40K,0
+424,Female,White,45-59,Some college,<40K,0
+425,Male,White,30-44,Some college,<40K,1
+426,Female,Hispanic,30-44,High school or less,$40K-79K,1
+427,Male,White,30-44,Graduate degree,<40K,0
+428,Female,Asian,18-29,Bachelors,$80K+,0
+429,Male,White,18-29,Some college,$40K-79K,1
+430,Male,Hispanic,60+,Some college,<40K,1
+431,Male,Black,45-59,Bachelors,<40K,0
+432,Female,Hispanic,45-59,Graduate degree,$40K-79K,0
+433,Female,Other,45-59,Graduate degree,<40K,0
+434,Male,White,60+,Some college,$80K+,0
+435,Male,Other,18-29,Bachelors,$80K+,0
+436,Female,White,30-44,Some college,<40K,0
+437,Male,White,30-44,Some college,$40K-79K,0
+438,Female,White,60+,High school or less,<40K,0
+439,Female,White,60+,High school or less,$40K-79K,0
+440,Male,White,30-44,Some college,$40K-79K,0
+441,Male,White,60+,Some college,<40K,1
+442,Female,White,60+,High school or less,<40K,1
+443,Male,Hispanic,30-44,Bachelors,$40K-79K,1
+444,Male,Hispanic,30-44,High school or less,$40K-79K,1
+445,Female,White,30-44,Some college,<40K,0
+446,Female,White,60+,Some college,$40K-79K,1
+447,Female,White,18-29,Graduate degree,$40K-79K,1
+448,Female,White,60+,Some college,$80K+,1
+449,Male,White,30-44,High school or less,<40K,0
+450,Male,White,45-59,Some college,$80K+,1
+451,Female,White,30-44,Bachelors,$40K-79K,1
+452,Female,Other,45-59,Graduate degree,<40K,1
+453,Male,White,60+,Some college,$40K-79K,1
+454,Female,White,60+,Some college,$40K-79K,1
+455,Male,White,60+,Graduate degree,$80K+,1
+456,Female,White,18-29,High school or less,<40K,0
+457,Male,White,45-59,Bachelors,$40K-79K,0
+458,Male,Black,18-29,Some college,$40K-79K,0
+459,Male,White,30-44,High school or less,$80K+,0
+460,Male,White,45-59,Some college,$40K-79K,0
+461,Male,Other,30-44,Some college,$80K+,1
+462,Female,Hispanic,45-59,Bachelors,$80K+,0
+463,Female,Black,60+,Graduate degree,<40K,1
+464,Female,White,18-29,Some college,$80K+,0
+465,Female,Black,45-59,Bachelors,$80K+,0
+466,Male,White,30-44,High school or less,<40K,0
+467,Male,White,18-29,Some college,$40K-79K,1
+468,Female,White,18-29,High school or less,$40K-79K,0
+469,Male,White,60+,Graduate degree,<40K,1
+470,Female,White,60+,Bachelors,<40K,0
+471,Male,White,60+,Bachelors,<40K,0
+472,Female,Other,60+,Bachelors,<40K,1
+473,Male,Hispanic,30-44,Bachelors,$40K-79K,1
+474,Female,Black,30-44,Graduate degree,<40K,0
+475,Female,White,45-59,Bachelors,$80K+,1
+476,Other,Hispanic,45-59,Graduate degree,$40K-79K,0
+477,Male,White,30-44,Some college,<40K,0
+478,Female,Hispanic,30-44,High school or less,$40K-79K,0
+479,Female,White,45-59,Some college,$40K-79K,0
+480,Female,Hispanic,45-59,High school or less,$80K+,0
+481,Female,White,18-29,Some college,<40K,0
+482,Female,Hispanic,45-59,Some college,<40K,1
+483,Male,Asian,45-59,Bachelors,$80K+,0
+484,Female,White,45-59,High school or less,$80K+,0
+485,Female,White,30-44,High school or less,$40K-79K,0
+486,Female,Other,45-59,Some college,$80K+,1
+487,Male,White,18-29,Graduate degree,<40K,0
+488,Male,Hispanic,30-44,Some college,$40K-79K,1
+489,Female,White,60+,Some college,<40K,0
+490,Female,White,45-59,Bachelors,<40K,0
+491,Male,White,30-44,Bachelors,$80K+,1
+492,Female,White,45-59,Some college,<40K,0
+493,Male,Hispanic,45-59,Some college,$40K-79K,0
+494,Male,White,60+,High school or less,$80K+,0
+495,Male,White,45-59,Graduate degree,<40K,1
+496,Male,White,45-59,High school or less,$80K+,0
+497,Female,White,45-59,Some college,$80K+,0
+498,Male,Hispanic,18-29,High school or less,$40K-79K,1
+499,Female,Other,30-44,High school or less,<40K,0
+500,Female,White,30-44,Bachelors,$40K-79K,0
+501,Female,Hispanic,45-59,High school or less,$40K-79K,0
+502,Female,Hispanic,45-59,High school or less,$40K-79K,0
+503,Male,White,30-44,Some college,<40K,1
+504,Female,Asian,18-29,High school or less,$80K+,0
+505,Female,White,45-59,High school or less,<40K,1
+506,Male,White,30-44,Bachelors,$40K-79K,1
+507,Female,Hispanic,45-59,Bachelors,<40K,0
+508,Female,White,18-29,Graduate degree,$40K-79K,1
+509,Female,Hispanic,45-59,Graduate degree,$80K+,1
+510,Female,Hispanic,60+,Bachelors,<40K,0
+511,Female,White,18-29,High school or less,<40K,0
+512,Male,Hispanic,45-59,Bachelors,$40K-79K,1
+513,Female,White,18-29,Bachelors,$40K-79K,0
+514,Female,White,45-59,Bachelors,$40K-79K,0
+515,Male,Black,45-59,Some college,$40K-79K,1
+516,Male,Asian,30-44,High school or less,<40K,0
+517,Male,White,45-59,Bachelors,$80K+,0
+518,Female,White,60+,Bachelors,$80K+,0
+519,Female,Black,18-29,Graduate degree,$40K-79K,1
+520,Male,Black,18-29,High school or less,$80K+,1
+521,Female,Black,60+,High school or less,$40K-79K,0
+522,Male,White,45-59,High school or less,$40K-79K,1
+523,Female,White,60+,Bachelors,<40K,1
+524,Female,White,45-59,High school or less,$40K-79K,0
+525,Female,Hispanic,60+,High school or less,$40K-79K,0
+526,Male,White,30-44,Graduate degree,<40K,1
+527,Male,White,45-59,High school or less,$40K-79K,0
+528,Male,Asian,60+,Bachelors,$80K+,0
+529,Male,White,45-59,Some college,$40K-79K,1
+530,Female,Other,18-29,Bachelors,$40K-79K,0
+531,Female,Black,30-44,Some college,$80K+,1
+532,Other,Hispanic,18-29,Graduate degree,<40K,1
+533,Other,White,30-44,Graduate degree,$40K-79K,1
+534,Female,White,30-44,High school or less,$80K+,0
+535,Female,Hispanic,45-59,High school or less,$40K-79K,0
+536,Female,Hispanic,45-59,Some college,$40K-79K,0
+537,Female,Hispanic,30-44,Bachelors,<40K,0
+538,Male,White,45-59,Graduate degree,$80K+,1
+539,Male,Hispanic,18-29,Some college,$40K-79K,1
+540,Male,Hispanic,18-29,Bachelors,$80K+,1
+541,Female,Black,18-29,High school or less,$40K-79K,0
+542,Female,Hispanic,45-59,Bachelors,$40K-79K,1
+543,Male,Hispanic,30-44,Graduate degree,$80K+,0
+544,Female,Black,30-44,Some college,$40K-79K,1
+545,Female,White,30-44,Some college,$40K-79K,1
+546,Male,White,60+,High school or less,$40K-79K,0
+547,Male,White,18-29,Some college,$80K+,0
+548,Female,White,45-59,Some college,$40K-79K,1
+549,Female,White,45-59,High school or less,$40K-79K,0
+550,Female,White,60+,Some college,<40K,0
+551,Female,White,60+,Some college,$80K+,0
+552,Female,White,18-29,Some college,<40K,0
+553,Female,Hispanic,18-29,Some college,$40K-79K,1
+554,Female,Asian,60+,High school or less,$40K-79K,0
+555,Female,White,45-59,Bachelors,$40K-79K,1
+556,Male,Asian,45-59,Bachelors,$40K-79K,0
+557,Male,White,45-59,Some college,<40K,0
+558,Male,White,45-59,High school or less,$40K-79K,1
+559,Female,White,60+,Bachelors,$80K+,0
+560,Female,White,60+,Graduate degree,$80K+,1
+561,Female,Hispanic,45-59,High school or less,<40K,0
+562,Male,Black,30-44,Some college,$80K+,1
+563,Male,White,60+,High school or less,$40K-79K,0
+564,Male,White,18-29,Some college,$80K+,1
+565,Male,White,30-44,High school or less,$40K-79K,0
+566,Female,White,60+,Some college,$40K-79K,1
+567,Male,White,30-44,Bachelors,$80K+,0
+568,Male,White,30-44,Some college,$80K+,1
+569,Female,Hispanic,18-29,Some college,$40K-79K,1
+570,Male,Asian,60+,Some college,<40K,0
+571,Female,White,45-59,Some college,$40K-79K,1
+572,Female,Hispanic,45-59,High school or less,$40K-79K,1
+573,Male,White,30-44,High school or less,<40K,0
+574,Female,White,60+,Graduate degree,<40K,0
+575,Female,White,60+,High school or less,$80K+,1
+576,Female,Black,30-44,Bachelors,<40K,1
+577,Male,Other,30-44,Graduate degree,$40K-79K,1
+578,Female,Black,30-44,Some college,<40K,1
+579,Female,White,60+,Some college,$40K-79K,0
+580,Male,Black,45-59,Some college,<40K,1
+581,Male,White,60+,Graduate degree,<40K,0
+582,Female,Hispanic,30-44,Graduate degree,$80K+,0
+583,Female,White,60+,Bachelors,$80K+,0
+584,Male,White,60+,High school or less,<40K,0
+585,Female,White,45-59,Bachelors,$40K-79K,0
+586,Male,Black,60+,Some college,$40K-79K,0
+587,Male,White,30-44,Some college,$80K+,1
+588,Male,Black,18-29,High school or less,$80K+,1
+589,Male,White,45-59,High school or less,$40K-79K,1
+590,Male,Black,45-59,Bachelors,$40K-79K,0
+591,Male,Hispanic,45-59,Some college,$80K+,1
+592,Female,Hispanic,30-44,Some college,<40K,0
+593,Male,White,45-59,Some college,$40K-79K,0
+594,Male,White,30-44,Graduate degree,$80K+,1
+595,Female,White,30-44,Bachelors,$40K-79K,1
+596,Male,Hispanic,45-59,Some college,$40K-79K,1
+597,Female,White,45-59,High school or less,$40K-79K,0
+598,Male,White,30-44,Some college,$40K-79K,1
+599,Male,White,30-44,Graduate degree,$40K-79K,1
+600,Male,White,30-44,Some college,$40K-79K,0
+601,Male,Black,18-29,Some college,$40K-79K,0
+602,Male,White,60+,Some college,$40K-79K,0
+603,Male,Hispanic,60+,Some college,$80K+,1
+604,Male,White,30-44,Bachelors,<40K,1
+605,Male,White,60+,Some college,$40K-79K,0
+606,Male,White,60+,High school or less,$40K-79K,0
+607,Male,White,60+,High school or less,$40K-79K,1
+608,Male,White,18-29,Some college,<40K,1
+609,Female,Black,60+,Graduate degree,$40K-79K,1
+610,Female,White,30-44,Some college,$80K+,1
+611,Male,Hispanic,30-44,Graduate degree,$40K-79K,0
+612,Female,White,18-29,Bachelors,$80K+,0
+613,Female,White,45-59,High school or less,$80K+,0
+614,Male,Hispanic,18-29,High school or less,<40K,0
+615,Female,White,30-44,High school or less,<40K,0
+616,Female,White,30-44,Bachelors,$80K+,1
+617,Male,White,60+,High school or less,$80K+,1
+618,Male,White,60+,Some college,<40K,1
+619,Female,Hispanic,30-44,Some college,<40K,0
+620,Female,White,60+,Bachelors,<40K,0
+621,Male,Hispanic,60+,High school or less,$80K+,0
+622,Male,Hispanic,60+,Some college,<40K,0
+623,Male,White,18-29,Some college,$40K-79K,0
+624,Male,Hispanic,45-59,Some college,$80K+,1
+625,Female,White,60+,Bachelors,<40K,1
+626,Male,Other,45-59,High school or less,$40K-79K,1
+627,Male,White,30-44,Bachelors,<40K,1
+628,Female,Black,45-59,Bachelors,$80K+,0
+629,Male,White,45-59,Some college,<40K,0
+630,Male,White,45-59,Bachelors,$40K-79K,0
+631,Female,Black,18-29,Some college,$40K-79K,0
+632,Female,Black,30-44,High school or less,<40K,1
+633,Female,White,60+,Bachelors,<40K,0
+634,Female,White,60+,Some college,$40K-79K,0
+635,Male,Black,18-29,Bachelors,<40K,0
+636,Male,Black,60+,Some college,$80K+,1
+637,Female,Other,30-44,Graduate degree,$80K+,0
+638,Male,Hispanic,45-59,Some college,$40K-79K,1
+639,Male,Asian,60+,High school or less,$40K-79K,1
+640,Male,Black,60+,Some college,$40K-79K,0
+641,Male,White,60+,Bachelors,$80K+,1
+642,Male,White,30-44,Bachelors,$40K-79K,0
+643,Male,Hispanic,60+,Some college,<40K,0
+644,Male,Black,18-29,Graduate degree,<40K,1
+645,Male,White,45-59,Some college,$40K-79K,0
+646,Female,White,45-59,Some college,$40K-79K,0
+647,Female,Asian,45-59,Graduate degree,$40K-79K,1
+648,Female,White,30-44,Graduate degree,<40K,1
+649,Female,White,60+,Bachelors,$40K-79K,1
+650,Female,White,18-29,Graduate degree,<40K,1
+651,Male,White,18-29,High school or less,<40K,1
+652,Female,White,45-59,Graduate degree,$40K-79K,1
+653,Female,White,45-59,Some college,<40K,1
+654,Female,White,60+,High school or less,$40K-79K,0
+655,Male,Hispanic,30-44,High school or less,$40K-79K,0
+656,Male,White,18-29,Some college,$40K-79K,0
+657,Male,Hispanic,60+,Some college,$40K-79K,0
+658,Male,Hispanic,45-59,Some college,<40K,0
+659,Female,White,18-29,High school or less,<40K,0
+660,Female,Black,45-59,Some college,$80K+,0
+661,Male,White,45-59,Some college,$40K-79K,0
+662,Female,Hispanic,45-59,Some college,$40K-79K,0
+663,Female,White,45-59,Some college,<40K,1
+664,Male,Black,60+,Bachelors,$40K-79K,0
+665,Male,Black,60+,Graduate degree,$40K-79K,0
+666,Male,White,45-59,Bachelors,$40K-79K,0
+667,Male,White,18-29,Some college,$40K-79K,1
+668,Male,Black,60+,Bachelors,<40K,0
+669,Male,Hispanic,45-59,High school or less,<40K,1
+670,Male,White,45-59,High school or less,$80K+,0
+671,Male,Black,30-44,Some college,$80K+,1
+672,Female,White,60+,Bachelors,<40K,0
+673,Male,Black,45-59,High school or less,$40K-79K,0
+674,Female,White,18-29,High school or less,<40K,0
+675,Male,Hispanic,30-44,High school or less,<40K,0
+676,Female,White,60+,Graduate degree,$40K-79K,1
+677,Male,White,18-29,Bachelors,<40K,1
+678,Male,White,60+,Some college,$40K-79K,1
+679,Female,White,45-59,Some college,$40K-79K,0
+680,Female,White,45-59,Some college,<40K,0
+681,Female,White,30-44,Bachelors,<40K,0
+682,Male,Hispanic,30-44,High school or less,$80K+,1
+683,Male,White,60+,Graduate degree,<40K,0
+684,Female,White,30-44,Some college,$40K-79K,1
+685,Female,White,60+,Bachelors,$40K-79K,0
+686,Female,White,30-44,High school or less,$40K-79K,0
+687,Female,White,18-29,Some college,$40K-79K,0
+688,Male,White,18-29,Some college,<40K,0
+689,Female,White,45-59,Some college,<40K,1
+690,Male,White,60+,High school or less,<40K,0
+691,Male,White,30-44,Bachelors,$40K-79K,0
+692,Male,White,30-44,High school or less,$40K-79K,0
+693,Female,White,30-44,Bachelors,<40K,1
+694,Male,White,45-59,Bachelors,<40K,0
+695,Male,Other,30-44,Some college,$40K-79K,1
+696,Female,White,60+,Bachelors,$40K-79K,1
+697,Male,Black,45-59,Bachelors,$80K+,1
+698,Female,White,45-59,Some college,$40K-79K,0
+699,Male,Hispanic,18-29,Bachelors,$40K-79K,0
+700,Male,Hispanic,60+,Some college,$40K-79K,0
+701,Female,White,30-44,Some college,$80K+,0
+702,Male,Other,18-29,Bachelors,$80K+,1
+703,Male,White,45-59,Some college,$40K-79K,0
+704,Male,White,45-59,Some college,<40K,1
+705,Male,Hispanic,30-44,Some college,<40K,0
+706,Female,Hispanic,30-44,Bachelors,$40K-79K,1
+707,Male,White,60+,Graduate degree,$40K-79K,1
+708,Female,White,18-29,Some college,$40K-79K,1
+709,Male,White,60+,Bachelors,<40K,1
+710,Female,White,45-59,Graduate degree,$40K-79K,0
+711,Female,Hispanic,30-44,High school or less,$80K+,0
+712,Female,White,45-59,High school or less,<40K,0
+713,Male,White,30-44,Bachelors,$40K-79K,0
+714,Male,White,60+,Bachelors,$40K-79K,1
+715,Male,White,45-59,Graduate degree,$80K+,0
+716,Female,White,30-44,Some college,$80K+,0
+717,Female,Black,45-59,High school or less,$40K-79K,0
+718,Female,Other,60+,Some college,$40K-79K,0
+719,Male,Hispanic,30-44,High school or less,$80K+,0
+720,Female,White,60+,Some college,$40K-79K,0
+721,Female,Hispanic,30-44,Bachelors,$40K-79K,1
+722,Male,Hispanic,18-29,High school or less,$80K+,0
+723,Male,Hispanic,30-44,Bachelors,<40K,0
+724,Female,White,30-44,Some college,$40K-79K,1
+725,Female,White,30-44,Some college,$80K+,1
+726,Female,White,18-29,High school or less,$40K-79K,0
+727,Male,White,60+,Some college,$40K-79K,0
+728,Female,White,60+,High school or less,<40K,0
+729,Male,White,45-59,Graduate degree,$40K-79K,0
+730,Male,White,18-29,Bachelors,<40K,1
+731,Male,Hispanic,18-29,Some college,<40K,0
+732,Female,White,18-29,High school or less,$40K-79K,1
+733,Female,White,45-59,Graduate degree,<40K,1
+734,Female,Asian,60+,Some college,$40K-79K,0
+735,Male,Asian,30-44,High school or less,$40K-79K,0
+736,Female,Hispanic,18-29,Some college,$80K+,0
+737,Male,Other,45-59,Graduate degree,$40K-79K,1
+738,Female,White,30-44,High school or less,<40K,0
+739,Male,Other,30-44,High school or less,<40K,0
+740,Male,White,45-59,Graduate degree,$40K-79K,0
+741,Male,White,45-59,High school or less,$40K-79K,0
+742,Male,White,18-29,High school or less,$40K-79K,1
+743,Female,White,18-29,Some college,$40K-79K,0
+744,Female,White,60+,Graduate degree,<40K,0
+745,Male,Black,30-44,Some college,$40K-79K,0
+746,Female,Hispanic,18-29,Graduate degree,$40K-79K,1
+747,Male,White,18-29,Bachelors,<40K,1
+748,Female,White,18-29,High school or less,<40K,1
+749,Female,Hispanic,30-44,Graduate degree,<40K,0
+750,Female,Black,60+,Some college,<40K,0
+751,Male,White,30-44,Some college,$40K-79K,0
+752,Female,Black,30-44,Some college,<40K,0
+753,Female,White,45-59,Some college,<40K,0
+754,Male,White,45-59,High school or less,<40K,0
+755,Male,Asian,60+,High school or less,$80K+,0
+756,Female,White,60+,Some college,$80K+,1
+757,Female,White,18-29,Bachelors,<40K,0
+758,Female,Hispanic,60+,Some college,$40K-79K,1
+759,Female,Black,45-59,Graduate degree,<40K,0
+760,Female,White,60+,Some college,$40K-79K,1
+761,Male,White,45-59,Some college,<40K,0
+762,Male,White,60+,High school or less,$40K-79K,0
+763,Male,Black,60+,High school or less,$40K-79K,0
+764,Female,White,30-44,Some college,$80K+,0
+765,Male,White,45-59,Bachelors,<40K,1
+766,Female,Asian,60+,Graduate degree,$80K+,1
+767,Female,White,60+,Graduate degree,$80K+,1
+768,Female,White,18-29,High school or less,<40K,0
+769,Male,White,45-59,Graduate degree,$40K-79K,0
+770,Female,Black,30-44,Some college,<40K,0
+771,Male,White,18-29,High school or less,<40K,0
+772,Female,White,30-44,Graduate degree,<40K,1
+773,Male,Hispanic,30-44,Bachelors,$40K-79K,0
+774,Male,White,60+,High school or less,$40K-79K,0
+775,Female,White,30-44,Some college,$80K+,0
+776,Male,White,60+,Some college,<40K,0
+777,Male,White,18-29,Bachelors,$80K+,1
+778,Female,White,30-44,Some college,<40K,1
+779,Female,White,30-44,Graduate degree,$80K+,0
+780,Female,White,30-44,High school or less,$40K-79K,0
+781,Female,White,18-29,Some college,<40K,1
+782,Female,Hispanic,18-29,Some college,$80K+,1
+783,Male,Other,45-59,Some college,$40K-79K,1
+784,Male,Hispanic,30-44,Some college,$40K-79K,1
+785,Male,Hispanic,30-44,Bachelors,$40K-79K,1
+786,Female,White,30-44,Graduate degree,$40K-79K,0
+787,Female,Other,60+,Graduate degree,$40K-79K,0
+788,Male,White,60+,Bachelors,$40K-79K,0
+789,Male,Asian,45-59,Graduate degree,<40K,1
+790,Female,Other,30-44,Some college,$40K-79K,0
+791,Male,Black,18-29,Bachelors,$80K+,0
+792,Female,Other,60+,Some college,<40K,0
+793,Female,White,18-29,Some college,<40K,1
+794,Female,White,30-44,Some college,$40K-79K,0
+795,Male,White,30-44,Some college,$40K-79K,0
+796,Female,White,30-44,Some college,$40K-79K,0
+797,Female,White,18-29,Graduate degree,<40K,0
+798,Female,Black,60+,Some college,$40K-79K,0
+799,Female,Other,18-29,High school or less,<40K,1
+800,Female,White,45-59,Some college,$40K-79K,0
+801,Female,Hispanic,18-29,High school or less,$80K+,0
+802,Male,Hispanic,18-29,High school or less,<40K,1
+803,Female,Asian,60+,High school or less,$40K-79K,0
+804,Female,Other,18-29,Some college,$80K+,1
+805,Male,White,60+,Some college,$40K-79K,1
+806,Female,Other,45-59,Bachelors,$80K+,0
+807,Female,Hispanic,18-29,Bachelors,$40K-79K,0
+808,Female,White,60+,Some college,$80K+,0
+809,Male,White,30-44,Some college,<40K,1
+810,Male,Black,60+,Some college,<40K,0
+811,Female,White,18-29,Bachelors,<40K,1
+812,Female,Black,60+,High school or less,$40K-79K,1
+813,Male,Black,18-29,High school or less,$80K+,0
+814,Female,White,45-59,Bachelors,$40K-79K,1
+815,Female,White,60+,Some college,$40K-79K,1
+816,Female,Hispanic,60+,High school or less,$40K-79K,0
+817,Female,White,60+,High school or less,$40K-79K,1
+818,Male,White,60+,Graduate degree,$40K-79K,1
+819,Male,White,60+,Graduate degree,$40K-79K,0
+820,Male,White,18-29,Bachelors,$40K-79K,1
+821,Female,Asian,30-44,Some college,<40K,0
+822,Male,White,30-44,Some college,$80K+,1
+823,Male,Black,30-44,Graduate degree,<40K,1
+824,Male,White,30-44,Graduate degree,<40K,0
+825,Female,White,45-59,High school or less,$80K+,1
+826,Female,Hispanic,18-29,Bachelors,$40K-79K,0
+827,Male,Black,45-59,High school or less,$40K-79K,0
+828,Male,White,18-29,High school or less,$40K-79K,1
+829,Female,White,30-44,Bachelors,$40K-79K,1
+830,Male,White,45-59,Some college,<40K,0
+831,Male,White,60+,Graduate degree,$40K-79K,0
+832,Male,Black,45-59,High school or less,$40K-79K,0
+833,Male,White,45-59,Some college,$40K-79K,0
+834,Male,White,18-29,Graduate degree,$40K-79K,1
+835,Female,White,45-59,Graduate degree,$80K+,1
+836,Male,Asian,18-29,High school or less,<40K,1
+837,Female,Other,30-44,Some college,$40K-79K,0
+838,Male,White,30-44,Bachelors,$40K-79K,0
+839,Female,Hispanic,18-29,High school or less,$80K+,1
+840,Female,White,30-44,Graduate degree,<40K,0
+841,Male,White,60+,Graduate degree,$40K-79K,1
+842,Female,Hispanic,60+,High school or less,$80K+,0
+843,Male,Asian,30-44,High school or less,<40K,1
+844,Female,Asian,18-29,High school or less,$80K+,0
+845,Male,White,18-29,Graduate degree,<40K,0
+846,Male,White,30-44,High school or less,$40K-79K,1
+847,Male,Hispanic,60+,Some college,$80K+,1
+848,Other,White,18-29,Some college,$40K-79K,1
+849,Female,White,60+,Some college,$40K-79K,1
+850,Female,White,18-29,High school or less,<40K,0
+851,Male,Black,60+,High school or less,$80K+,0
+852,Female,White,30-44,Graduate degree,$40K-79K,0
+853,Male,White,60+,Graduate degree,<40K,1
+854,Female,Asian,30-44,Bachelors,$40K-79K,1
+855,Male,White,45-59,High school or less,$40K-79K,0
+856,Male,White,18-29,Some college,<40K,1
+857,Male,White,18-29,Bachelors,<40K,1
+858,Male,White,60+,Some college,<40K,0
+859,Female,White,60+,Graduate degree,$40K-79K,1
+860,Male,White,60+,Bachelors,$40K-79K,1
+861,Female,Hispanic,45-59,High school or less,$40K-79K,1
+862,Male,White,60+,Graduate degree,$80K+,0
+863,Female,Asian,18-29,Graduate degree,$80K+,1
+864,Male,White,30-44,High school or less,$40K-79K,0
+865,Male,White,30-44,Some college,<40K,0
+866,Female,White,45-59,Some college,$40K-79K,1
+867,Male,White,30-44,Some college,$40K-79K,0
+868,Male,Hispanic,18-29,High school or less,$40K-79K,1
+869,Female,White,45-59,Some college,$40K-79K,0
+870,Female,White,60+,Graduate degree,$40K-79K,0
+871,Male,Hispanic,30-44,Some college,$80K+,1
+872,Male,Asian,18-29,High school or less,<40K,1
+873,Female,Hispanic,18-29,Bachelors,$40K-79K,1
+874,Male,White,30-44,Some college,<40K,0
+875,Male,Hispanic,30-44,Graduate degree,$80K+,0
+876,Male,White,45-59,Some college,<40K,0
+877,Female,White,45-59,High school or less,<40K,0
+878,Female,White,45-59,High school or less,$40K-79K,0
+879,Male,White,30-44,Bachelors,$40K-79K,1
+880,Male,White,60+,Some college,<40K,1
+881,Male,White,30-44,Bachelors,$40K-79K,1
+882,Female,Hispanic,45-59,High school or less,$40K-79K,0
+883,Male,White,60+,Some college,<40K,0
+884,Male,White,18-29,Some college,$40K-79K,0
+885,Female,White,18-29,Graduate degree,$80K+,1
+886,Male,Asian,60+,Graduate degree,$40K-79K,1
+887,Female,White,30-44,High school or less,$40K-79K,0
+888,Male,White,45-59,Some college,$40K-79K,0
+889,Male,Hispanic,18-29,High school or less,$40K-79K,1
+890,Male,Hispanic,45-59,Some college,<40K,0
+891,Female,White,30-44,Some college,<40K,1
+892,Female,Black,18-29,Graduate degree,$80K+,0
+893,Female,Hispanic,45-59,Graduate degree,$80K+,1
+894,Male,Black,30-44,Some college,$40K-79K,0
+895,Female,White,30-44,Some college,<40K,0
+896,Male,Hispanic,18-29,Graduate degree,<40K,0
+897,Male,White,18-29,Bachelors,$40K-79K,1
+898,Female,White,30-44,High school or less,$40K-79K,0
+899,Male,White,18-29,Some college,<40K,0
+900,Male,White,60+,Some college,$80K+,0
+901,Male,White,18-29,High school or less,$40K-79K,0
+902,Male,Hispanic,45-59,High school or less,$80K+,1
+903,Male,White,18-29,High school or less,$80K+,0
+904,Female,White,30-44,Bachelors,$80K+,0
+905,Male,White,60+,Some college,$40K-79K,1
+906,Female,White,18-29,High school or less,$40K-79K,0
+907,Female,Other,60+,High school or less,$40K-79K,0
+908,Male,White,30-44,Bachelors,$40K-79K,1
+909,Male,White,45-59,Graduate degree,$40K-79K,1
+910,Male,White,45-59,Some college,$80K+,0
+911,Female,White,60+,Some college,$40K-79K,0
+912,Male,White,45-59,Graduate degree,$80K+,0
+913,Female,Black,45-59,High school or less,$80K+,0
+914,Male,Other,18-29,High school or less,<40K,1
+915,Female,White,18-29,Some college,<40K,1
+916,Male,Black,60+,High school or less,$40K-79K,0
+917,Male,Hispanic,30-44,Some college,$40K-79K,0
+918,Female,Hispanic,30-44,Graduate degree,$80K+,1
+919,Female,White,60+,Bachelors,$40K-79K,0
+920,Male,White,30-44,Some college,$40K-79K,0
+921,Female,White,60+,Graduate degree,$40K-79K,1
+922,Male,Black,45-59,High school or less,<40K,0
+923,Female,Hispanic,45-59,High school or less,$40K-79K,0
+924,Female,White,60+,Some college,$80K+,0
+925,Male,White,18-29,Bachelors,<40K,1
+926,Male,Hispanic,30-44,High school or less,$40K-79K,0
+927,Male,Hispanic,45-59,Some college,$40K-79K,1
+928,Female,Other,30-44,Bachelors,<40K,0
+929,Female,Hispanic,45-59,Bachelors,<40K,0
+930,Male,White,60+,Bachelors,$80K+,1
+931,Male,White,30-44,Some college,$40K-79K,1
+932,Female,Black,30-44,High school or less,<40K,0
+933,Female,White,60+,Some college,<40K,0
+934,Female,White,30-44,High school or less,$40K-79K,1
+935,Male,Black,45-59,Graduate degree,$40K-79K,0
+936,Male,White,30-44,Some college,$40K-79K,0
+937,Male,Hispanic,60+,Some college,<40K,1
+938,Female,White,45-59,Bachelors,$80K+,0
+939,Male,Asian,60+,Some college,$40K-79K,0
+940,Female,White,60+,Some college,$40K-79K,0
+941,Male,White,30-44,Bachelors,$40K-79K,0
+942,Female,Black,30-44,Graduate degree,$40K-79K,1
+943,Female,White,60+,Bachelors,$80K+,0
+944,Female,Black,30-44,High school or less,$80K+,0
+945,Male,Hispanic,60+,Some college,$40K-79K,0
+946,Male,White,60+,Bachelors,$80K+,1
+947,Male,White,45-59,High school or less,$80K+,0
+948,Female,White,45-59,High school or less,$80K+,1
+949,Female,White,60+,Graduate degree,<40K,0
+950,Female,Asian,60+,High school or less,$40K-79K,1
+951,Female,Hispanic,30-44,Bachelors,<40K,0
+952,Female,Black,18-29,Some college,$80K+,1
+953,Male,Black,30-44,Some college,<40K,0
+954,Female,White,45-59,High school or less,$40K-79K,0
+955,Male,Asian,45-59,Bachelors,$40K-79K,1
+956,Male,Black,45-59,Some college,$40K-79K,1
+957,Female,Black,30-44,Some college,$40K-79K,0
+958,Male,Hispanic,45-59,Bachelors,$80K+,1
+959,Male,White,18-29,Bachelors,$40K-79K,0
+960,Female,Hispanic,45-59,Graduate degree,$80K+,1
+961,Male,White,45-59,Some college,<40K,0
+962,Female,White,30-44,Some college,$40K-79K,0
+963,Male,White,30-44,Graduate degree,$40K-79K,1
+964,Male,Other,45-59,Bachelors,<40K,0
+965,Male,Hispanic,45-59,Some college,$40K-79K,1
+966,Male,Black,30-44,High school or less,$40K-79K,0
+967,Female,Black,60+,Bachelors,$40K-79K,0
+968,Male,White,45-59,Some college,$40K-79K,1
+969,Female,Asian,60+,Bachelors,$40K-79K,1
+970,Male,White,30-44,Some college,<40K,0
+971,Female,White,45-59,High school or less,<40K,0
+972,Female,White,60+,Bachelors,$40K-79K,1
+973,Female,Hispanic,45-59,High school or less,<40K,0
+974,Male,Hispanic,45-59,Some college,<40K,1
+975,Male,White,30-44,Some college,$40K-79K,1
+976,Male,White,30-44,Some college,$40K-79K,0
+977,Female,Hispanic,18-29,Bachelors,$40K-79K,1
+978,Male,White,30-44,Bachelors,$40K-79K,0
+979,Female,Black,18-29,Bachelors,$40K-79K,0
+980,Female,Other,18-29,High school or less,$40K-79K,0
+981,Male,White,60+,High school or less,$80K+,1
+982,Female,White,30-44,Some college,$40K-79K,1
+983,Male,Black,45-59,Graduate degree,$40K-79K,1
+984,Male,Hispanic,60+,Bachelors,$40K-79K,0
+985,Female,White,45-59,Bachelors,<40K,0
+986,Female,Other,18-29,Some college,$40K-79K,0
+987,Female,White,45-59,Some college,$40K-79K,0
+988,Male,White,45-59,Some college,$80K+,0
+989,Male,Black,45-59,High school or less,$80K+,1
+990,Female,Hispanic,60+,High school or less,$40K-79K,0
+991,Female,White,60+,Graduate degree,<40K,0
+992,Female,Hispanic,45-59,High school or less,<40K,0
+993,Male,White,30-44,High school or less,$40K-79K,1
+994,Female,White,45-59,High school or less,$40K-79K,0
+995,Male,White,18-29,Graduate degree,<40K,1
+996,Male,Hispanic,60+,Some college,$40K-79K,0
+997,Female,White,18-29,Bachelors,<40K,1
+998,Male,White,30-44,Graduate degree,$80K+,0
+999,Female,White,60+,Some college,<40K,0
+1000,Male,Hispanic,45-59,Bachelors,$80K+,1
+1001,Male,Black,30-44,High school or less,$80K+,0
+1002,Female,Hispanic,45-59,High school or less,$40K-79K,0
+1003,Female,White,60+,Bachelors,$40K-79K,0
+1004,Female,Black,30-44,Bachelors,$40K-79K,0
+1005,Female,White,60+,Some college,$40K-79K,0
+1006,Female,Hispanic,18-29,Some college,$40K-79K,1
+1007,Female,Hispanic,60+,Some college,$40K-79K,0
+1008,Female,White,60+,High school or less,$40K-79K,1
+1009,Male,Black,18-29,High school or less,$40K-79K,1
+1010,Male,White,30-44,High school or less,$40K-79K,0
+1011,Male,White,18-29,Some college,<40K,0
+1012,Female,White,45-59,Bachelors,$40K-79K,1
+1013,Female,White,45-59,Some college,<40K,1
+1014,Male,White,45-59,High school or less,<40K,0
+1015,Female,Black,18-29,Some college,<40K,1
+1016,Female,White,30-44,Graduate degree,<40K,1
+1017,Male,Hispanic,18-29,High school or less,<40K,1
+1018,Female,White,30-44,High school or less,$80K+,1
+1019,Female,White,45-59,Some college,<40K,0
+1020,Male,Hispanic,60+,Bachelors,$40K-79K,1
+1021,Female,White,45-59,Some college,<40K,1
+1022,Male,White,30-44,Bachelors,$80K+,1
+1023,Female,Black,60+,Graduate degree,$40K-79K,1
+1024,Female,White,45-59,Bachelors,$40K-79K,0
+1025,Female,White,60+,Bachelors,$40K-79K,0
+1026,Male,White,45-59,Some college,$40K-79K,1
+1027,Female,Asian,30-44,High school or less,$40K-79K,0
+1028,Female,Black,18-29,Graduate degree,<40K,0
+1029,Male,Black,45-59,Some college,$80K+,1
+1030,Female,Black,18-29,High school or less,$40K-79K,0
+1031,Male,White,30-44,Bachelors,$40K-79K,1
+1032,Female,White,45-59,Some college,$40K-79K,0
+1033,Male,Hispanic,45-59,Some college,$40K-79K,0
+1034,Male,White,45-59,Some college,$80K+,1
+1035,Male,White,18-29,Some college,$40K-79K,0
+1036,Female,White,30-44,Bachelors,$40K-79K,1
+1037,Male,White,45-59,Some college,<40K,0
+1038,Female,Other,60+,Some college,$80K+,0
+1039,Male,White,45-59,Some college,$40K-79K,1
+1040,Male,White,60+,Bachelors,<40K,1
+1041,Female,White,60+,Bachelors,<40K,0
+1042,Female,Other,45-59,Some college,$40K-79K,1
+1043,Male,White,18-29,Bachelors,$80K+,0
+1044,Female,White,45-59,High school or less,<40K,1
+1045,Female,Hispanic,45-59,Graduate degree,$40K-79K,0
+1046,Female,Black,45-59,Some college,<40K,0
+1047,Male,White,45-59,Bachelors,$40K-79K,0
+1048,Male,White,45-59,High school or less,$40K-79K,0
+1049,Female,White,30-44,High school or less,$80K+,0
+1050,Male,White,45-59,Some college,$40K-79K,0
+1051,Female,White,18-29,Graduate degree,$80K+,1
+1052,Female,White,60+,Some college,$40K-79K,0
+1053,Female,White,18-29,Graduate degree,<40K,1
+1054,Female,White,18-29,Some college,$40K-79K,1
+1055,Other,Black,30-44,Some college,$40K-79K,1
+1056,Male,Other,45-59,High school or less,$80K+,0
+1057,Female,Black,30-44,Bachelors,$80K+,1
+1058,Male,White,30-44,High school or less,<40K,1
+1059,Male,White,45-59,Graduate degree,<40K,0
+1060,Female,Asian,30-44,Graduate degree,<40K,1
+1061,Female,White,60+,Graduate degree,$80K+,1
+1062,Female,White,60+,Some college,$80K+,0
+1063,Female,White,45-59,Bachelors,$80K+,1
+1064,Male,Black,30-44,Bachelors,$40K-79K,1
+1065,Male,Black,45-59,High school or less,$40K-79K,0
+1066,Female,White,18-29,Bachelors,$40K-79K,0
+1067,Male,White,45-59,High school or less,<40K,0
+1068,Male,Other,30-44,Some college,$40K-79K,0
+1069,Male,White,60+,High school or less,<40K,0
+1070,Male,Black,18-29,High school or less,<40K,0
+1071,Male,Black,45-59,Some college,$80K+,0
+1072,Male,Black,45-59,Some college,$80K+,1
+1073,Male,White,45-59,Bachelors,$40K-79K,0
+1074,Male,White,18-29,High school or less,$40K-79K,0
+1075,Female,White,60+,Some college,$40K-79K,0
+1076,Male,Hispanic,45-59,High school or less,$40K-79K,0
+1077,Male,Asian,45-59,Some college,$80K+,1
+1078,Female,White,30-44,Bachelors,$80K+,1
+1079,Male,White,45-59,Some college,$40K-79K,0
+1080,Female,Asian,30-44,Bachelors,<40K,1
+1081,Female,Hispanic,18-29,Some college,$40K-79K,1
+1082,Male,Hispanic,18-29,Bachelors,$40K-79K,1
+1083,Male,White,60+,Some college,$40K-79K,0
+1084,Female,White,30-44,Some college,$80K+,1
+1085,Female,Black,18-29,Bachelors,$40K-79K,1
+1086,Male,Black,45-59,High school or less,<40K,0
+1087,Female,White,60+,Bachelors,$40K-79K,1
+1088,Male,White,18-29,Bachelors,$80K+,1
+1089,Other,White,45-59,Some college,<40K,0
+1090,Male,White,18-29,High school or less,$40K-79K,1
+1091,Female,White,18-29,High school or less,$40K-79K,1
+1092,Female,Asian,18-29,Graduate degree,<40K,1
+1093,Female,White,60+,Bachelors,$40K-79K,0
+1094,Female,Hispanic,18-29,High school or less,$40K-79K,0
+1095,Male,White,18-29,Some college,$40K-79K,1
+1096,Male,Black,30-44,Some college,$80K+,0
+1097,Male,Other,60+,Bachelors,<40K,1
+1098,Male,White,30-44,High school or less,<40K,1
+1099,Female,White,30-44,High school or less,$80K+,1
+1100,Male,White,18-29,Graduate degree,$40K-79K,0
+1101,Male,White,30-44,High school or less,$40K-79K,0
+1102,Female,Hispanic,45-59,High school or less,$80K+,1
+1103,Female,Asian,45-59,Graduate degree,$40K-79K,1
+1104,Female,White,30-44,Bachelors,$40K-79K,0
+1105,Other,White,30-44,Some college,<40K,1
+1106,Male,White,18-29,High school or less,<40K,0
+1107,Male,Black,30-44,High school or less,<40K,1
+1108,Female,White,18-29,High school or less,$80K+,1
+1109,Female,White,60+,Graduate degree,<40K,0
+1110,Male,Black,60+,Some college,$40K-79K,0
+1111,Female,Black,60+,Bachelors,$80K+,0
+1112,Male,White,60+,Graduate degree,$40K-79K,0
+1113,Male,Black,45-59,Some college,$40K-79K,0
+1114,Female,White,45-59,High school or less,$40K-79K,0
+1115,Female,White,30-44,Some college,$40K-79K,1
+1116,Female,Hispanic,45-59,Graduate degree,$40K-79K,1
+1117,Male,Hispanic,45-59,Bachelors,$40K-79K,1
+1118,Female,White,45-59,High school or less,$80K+,0
+1119,Male,White,60+,Bachelors,$80K+,1
+1120,Male,White,30-44,Some college,$80K+,1
+1121,Female,White,30-44,Graduate degree,$80K+,0
+1122,Female,White,60+,High school or less,$40K-79K,0
+1123,Female,White,18-29,Some college,$40K-79K,0
+1124,Female,White,45-59,Graduate degree,$80K+,1
+1125,Female,Hispanic,60+,Some college,$40K-79K,0
+1126,Female,Black,45-59,Some college,$80K+,1
+1127,Male,Black,45-59,High school or less,$40K-79K,1
+1128,Male,White,30-44,Some college,$40K-79K,0
+1129,Male,Asian,30-44,Some college,$40K-79K,1
+1130,Male,Hispanic,60+,Graduate degree,$80K+,1
+1131,Female,Hispanic,45-59,Some college,<40K,1
+1132,Female,Hispanic,45-59,Some college,$40K-79K,0
+1133,Male,Asian,18-29,Bachelors,$40K-79K,1
+1134,Male,White,18-29,High school or less,<40K,1
+1135,Female,White,60+,Some college,$80K+,0
+1136,Male,Black,30-44,Bachelors,$40K-79K,0
+1137,Female,Hispanic,45-59,Graduate degree,$40K-79K,0
+1138,Female,Hispanic,18-29,Bachelors,$40K-79K,1
+1139,Male,White,45-59,Bachelors,$40K-79K,1
+1140,Female,White,60+,High school or less,$40K-79K,1
+1141,Female,White,45-59,Graduate degree,$40K-79K,1
+1142,Male,Asian,18-29,High school or less,<40K,1
+1143,Female,White,45-59,Bachelors,$80K+,0
+1144,Female,White,60+,Some college,$40K-79K,1
+1145,Male,White,30-44,Graduate degree,$40K-79K,1
+1146,Female,White,60+,Bachelors,$40K-79K,1
+1147,Female,Hispanic,45-59,Bachelors,$40K-79K,0
+1148,Female,Black,60+,High school or less,$40K-79K,0
+1149,Female,Hispanic,45-59,Some college,$40K-79K,1
+1150,Female,White,18-29,Bachelors,$40K-79K,1
+1151,Female,Black,30-44,Bachelors,$40K-79K,0
+1152,Female,White,30-44,High school or less,$40K-79K,1
+1153,Female,Black,60+,Graduate degree,<40K,0
+1154,Female,White,60+,Graduate degree,$40K-79K,0
+1155,Female,White,45-59,Some college,<40K,1
+1156,Female,Black,30-44,Bachelors,<40K,0
+1157,Male,Asian,18-29,Some college,$80K+,0
+1158,Female,White,60+,Some college,$40K-79K,0
+1159,Female,Hispanic,45-59,Some college,$40K-79K,1
+1160,Male,White,30-44,Some college,$40K-79K,1
+1161,Female,White,45-59,Bachelors,$80K+,0
+1162,Male,White,18-29,Some college,$40K-79K,1
+1163,Male,White,30-44,Bachelors,$80K+,0
+1164,Female,White,45-59,Bachelors,$40K-79K,1
+1165,Male,White,18-29,Bachelors,$80K+,1
+1166,Female,White,60+,High school or less,$80K+,0
+1167,Female,Asian,30-44,Graduate degree,$80K+,1
+1168,Female,White,18-29,Some college,<40K,0
+1169,Male,Hispanic,30-44,Some college,<40K,0
+1170,Male,White,60+,High school or less,<40K,0
+1171,Female,Black,30-44,Some college,<40K,1
+1172,Female,White,45-59,Graduate degree,$80K+,1
+1173,Female,White,18-29,Some college,<40K,1
+1174,Male,White,18-29,Bachelors,<40K,1
+1175,Female,White,30-44,High school or less,<40K,1
+1176,Female,White,60+,Some college,<40K,0
+1177,Female,Black,60+,Graduate degree,<40K,0
+1178,Male,Hispanic,18-29,Bachelors,$80K+,0
+1179,Female,Hispanic,45-59,High school or less,$40K-79K,0
+1180,Female,Black,60+,Some college,<40K,0
+1181,Female,White,30-44,High school or less,$40K-79K,1
+1182,Male,White,60+,Some college,$40K-79K,1
+1183,Female,White,18-29,Bachelors,<40K,1
+1184,Female,White,60+,Bachelors,$40K-79K,0
+1185,Male,White,60+,High school or less,$40K-79K,1
+1186,Female,White,60+,Graduate degree,$40K-79K,1
+1187,Female,White,45-59,Some college,$40K-79K,0
+1188,Male,White,30-44,Some college,<40K,1
+1189,Male,Hispanic,60+,Some college,$80K+,0
+1190,Female,Hispanic,30-44,Bachelors,$80K+,1
+1191,Male,White,30-44,Some college,$80K+,0
+1192,Female,Asian,45-59,Some college,<40K,0
+1193,Male,Asian,60+,Some college,$80K+,0
+1194,Female,White,60+,High school or less,$80K+,0
+1195,Male,White,30-44,Bachelors,$80K+,1
+1196,Female,White,60+,Some college,<40K,0
+1197,Female,Asian,45-59,High school or less,$40K-79K,1
+1198,Female,Hispanic,18-29,Bachelors,$80K+,1
+1199,Female,White,30-44,Graduate degree,$40K-79K,0
+1200,Male,White,30-44,Graduate degree,$40K-79K,0
+1201,Female,White,30-44,Some college,$80K+,0
+1202,Male,White,60+,High school or less,$40K-79K,0
+1203,Male,White,45-59,Some college,$40K-79K,1
+1204,Male,Hispanic,45-59,High school or less,$40K-79K,1
+1205,Male,Black,60+,Graduate degree,$80K+,1
+1206,Female,Hispanic,30-44,High school or less,<40K,1
+1207,Female,Hispanic,60+,Some college,$40K-79K,1
+1208,Male,Hispanic,30-44,Some college,$40K-79K,0
+1209,Male,White,60+,Some college,$80K+,0
+1210,Other,Black,18-29,Bachelors,$40K-79K,0
+1211,Male,White,60+,Some college,$80K+,0
+1212,Male,Black,30-44,High school or less,$80K+,1
+1213,Male,White,30-44,Some college,<40K,1
+1214,Female,Black,60+,Some college,$40K-79K,0
+1215,Female,White,30-44,High school or less,<40K,1
+1216,Male,White,45-59,Bachelors,$40K-79K,0
+1217,Male,White,30-44,Some college,$40K-79K,0
+1218,Female,White,45-59,Bachelors,$80K+,1
+1219,Female,Black,30-44,Graduate degree,$80K+,0
+1220,Male,Hispanic,18-29,Graduate degree,<40K,0
+1221,Female,White,30-44,Graduate degree,<40K,0
+1222,Male,White,45-59,High school or less,$40K-79K,0
+1223,Male,White,18-29,High school or less,$40K-79K,1
+1224,Female,White,30-44,Some college,<40K,1
+1225,Male,White,30-44,Graduate degree,$80K+,1
+1226,Female,Hispanic,18-29,Graduate degree,$80K+,1
+1227,Male,White,45-59,Graduate degree,$40K-79K,1
+1228,Male,White,60+,High school or less,$80K+,1
+1229,Female,White,18-29,Graduate degree,$40K-79K,1
+1230,Male,White,45-59,Some college,$40K-79K,0
+1231,Female,White,45-59,High school or less,$40K-79K,1
+1232,Male,Black,30-44,Some college,<40K,0
+1233,Male,White,45-59,High school or less,$80K+,0
+1234,Male,White,30-44,Some college,$40K-79K,1
+1235,Female,White,45-59,Some college,$40K-79K,0
+1236,Male,White,18-29,Some college,$40K-79K,1
+1237,Female,White,45-59,Bachelors,<40K,0
+1238,Male,Asian,45-59,Graduate degree,<40K,1
+1239,Female,Black,18-29,Bachelors,$40K-79K,0
+1240,Male,White,30-44,Some college,$40K-79K,0
+1241,Female,White,60+,Bachelors,$40K-79K,0
+1242,Female,White,30-44,Graduate degree,$40K-79K,1
+1243,Female,White,45-59,High school or less,$40K-79K,0
+1244,Female,Black,60+,Some college,$40K-79K,0
+1245,Female,Black,45-59,Some college,$40K-79K,0
+1246,Female,White,45-59,High school or less,$80K+,1
+1247,Male,White,60+,Bachelors,$40K-79K,0
+1248,Male,White,60+,Graduate degree,$40K-79K,0
+1249,Female,Hispanic,45-59,High school or less,<40K,0
+1250,Female,Black,45-59,Bachelors,$40K-79K,1
+1251,Female,White,30-44,Graduate degree,<40K,0
+1252,Male,White,60+,Graduate degree,$40K-79K,1
+1253,Male,Black,45-59,Some college,<40K,1
+1254,Male,White,18-29,Graduate degree,$40K-79K,0
+1255,Female,White,60+,Some college,$80K+,0
+1256,Male,White,45-59,Some college,$40K-79K,1
+1257,Male,Black,18-29,High school or less,<40K,0
+1258,Female,White,45-59,High school or less,<40K,0
+1259,Male,White,30-44,Bachelors,$80K+,0
+1260,Female,Hispanic,60+,Some college,<40K,0
+1261,Male,White,30-44,Some college,$40K-79K,0
+1262,Female,White,60+,High school or less,$40K-79K,0
+1263,Male,White,45-59,Bachelors,$40K-79K,1
+1264,Male,White,18-29,High school or less,$40K-79K,0
+1265,Male,Hispanic,60+,Bachelors,$80K+,1
+1266,Male,White,45-59,High school or less,<40K,1
+1267,Male,White,30-44,High school or less,<40K,1
+1268,Male,White,45-59,Some college,<40K,0
+1269,Female,Black,60+,Some college,<40K,1
+1270,Male,Black,30-44,Some college,<40K,0
+1271,Female,White,18-29,Some college,$40K-79K,0
+1272,Female,White,18-29,Graduate degree,$40K-79K,1
+1273,Female,Black,30-44,Bachelors,$40K-79K,0
+1274,Male,White,60+,High school or less,$40K-79K,0
+1275,Male,Hispanic,45-59,Some college,$40K-79K,0
+1276,Male,Hispanic,30-44,Graduate degree,$40K-79K,1
+1277,Male,Hispanic,18-29,Some college,<40K,0
+1278,Female,White,30-44,High school or less,$40K-79K,1
+1279,Male,White,60+,Bachelors,<40K,1
+1280,Female,Hispanic,30-44,Bachelors,<40K,1
+1281,Female,White,60+,Some college,$40K-79K,0
+1282,Female,White,45-59,High school or less,$80K+,0
+1283,Female,Hispanic,18-29,High school or less,$40K-79K,1
+1284,Male,Hispanic,60+,Bachelors,<40K,0
+1285,Male,White,45-59,High school or less,$80K+,1
+1286,Female,White,45-59,Some college,$40K-79K,0
+1287,Male,White,60+,Some college,$40K-79K,1
+1288,Male,Hispanic,18-29,Some college,$80K+,1
+1289,Male,Hispanic,18-29,Graduate degree,$40K-79K,1
+1290,Male,White,45-59,Bachelors,<40K,1
+1291,Male,White,30-44,Bachelors,$40K-79K,0
+1292,Male,Hispanic,18-29,High school or less,$40K-79K,0
+1293,Female,White,18-29,High school or less,$40K-79K,0
+1294,Female,White,18-29,Some college,$40K-79K,1
+1295,Female,Other,60+,High school or less,$80K+,0
+1296,Male,White,18-29,Graduate degree,$80K+,1
+1297,Male,Black,45-59,High school or less,$80K+,0
+1298,Male,White,45-59,Some college,$80K+,0
+1299,Female,White,30-44,Some college,$80K+,1
+1300,Female,Hispanic,18-29,Bachelors,<40K,0
+1301,Male,White,60+,High school or less,<40K,0
+1302,Female,Other,18-29,Some college,$40K-79K,0
+1303,Male,White,60+,Some college,$80K+,0
+1304,Female,White,60+,Graduate degree,$40K-79K,0
+1305,Female,White,30-44,High school or less,$40K-79K,0
+1306,Female,White,45-59,Graduate degree,<40K,0
+1307,Female,White,45-59,Bachelors,<40K,1
+1308,Female,White,30-44,Some college,$40K-79K,0
+1309,Male,White,60+,Bachelors,<40K,1
+1310,Female,White,60+,High school or less,$40K-79K,0
+1311,Male,Black,30-44,Graduate degree,<40K,0
+1312,Female,Black,45-59,Some college,$40K-79K,0
+1313,Female,Black,60+,Some college,$40K-79K,0
+1314,Female,White,60+,Some college,$40K-79K,1
+1315,Male,White,45-59,High school or less,$40K-79K,1
+1316,Female,Black,45-59,Graduate degree,<40K,1
+1317,Female,White,30-44,High school or less,$80K+,1
+1318,Female,White,60+,Bachelors,$40K-79K,0
+1319,Male,Hispanic,18-29,Some college,$40K-79K,0
+1320,Male,Hispanic,45-59,Graduate degree,$40K-79K,1
+1321,Male,White,30-44,High school or less,<40K,0
+1322,Male,White,30-44,Some college,$80K+,0
+1323,Female,Hispanic,30-44,Some college,$40K-79K,0
+1324,Male,White,60+,Bachelors,$40K-79K,0
+1325,Female,Hispanic,18-29,High school or less,<40K,1
+1326,Male,Hispanic,45-59,High school or less,$80K+,0
+1327,Male,Hispanic,18-29,High school or less,$80K+,0
+1328,Female,White,18-29,Bachelors,<40K,0
+1329,Female,White,30-44,High school or less,$40K-79K,1
+1330,Female,Black,45-59,Some college,$80K+,0
+1331,Female,Black,30-44,High school or less,$40K-79K,1
+1332,Female,Hispanic,30-44,Graduate degree,$80K+,1
+1333,Male,White,18-29,Graduate degree,$40K-79K,0
+1334,Other,White,30-44,Some college,$40K-79K,1
+1335,Female,Hispanic,60+,Some college,$40K-79K,0
+1336,Female,Hispanic,60+,High school or less,<40K,0
+1337,Male,Hispanic,30-44,High school or less,$40K-79K,0
+1338,Female,Hispanic,45-59,Some college,$80K+,0
+1339,Male,White,60+,Bachelors,$40K-79K,1
+1340,Male,Black,18-29,Some college,$40K-79K,0
+1341,Male,Hispanic,60+,Graduate degree,$40K-79K,0
+1342,Male,White,60+,Some college,$40K-79K,0
+1343,Female,Black,18-29,Bachelors,$80K+,0
+1344,Female,White,18-29,Some college,$80K+,0
+1345,Female,White,60+,Some college,<40K,0
+1346,Male,Black,45-59,Some college,$80K+,1
+1347,Male,White,18-29,Some college,$80K+,0
+1348,Male,White,30-44,Some college,$80K+,1
+1349,Female,White,30-44,Bachelors,$40K-79K,0
+1350,Male,White,45-59,Graduate degree,$80K+,0
+1351,Female,White,45-59,Some college,<40K,0
+1352,Female,White,60+,High school or less,$40K-79K,0
+1353,Male,Hispanic,30-44,Some college,$80K+,1
+1354,Female,White,45-59,Some college,<40K,0
+1355,Male,White,45-59,High school or less,<40K,1
+1356,Female,White,30-44,Bachelors,$80K+,1
+1357,Female,Black,18-29,Graduate degree,$80K+,0
+1358,Male,White,60+,Graduate degree,<40K,1
+1359,Male,Hispanic,60+,High school or less,$80K+,1
+1360,Female,Black,45-59,Graduate degree,$40K-79K,0
+1361,Female,Hispanic,45-59,Bachelors,$40K-79K,1
+1362,Male,White,30-44,Some college,$80K+,1
+1363,Female,Black,45-59,Some college,$40K-79K,1
+1364,Female,White,45-59,Bachelors,<40K,0
+1365,Female,Asian,45-59,Some college,<40K,0
+1366,Male,Black,60+,Some college,$40K-79K,1
+1367,Female,White,45-59,Some college,$40K-79K,0
+1368,Female,White,30-44,Some college,$80K+,1
+1369,Male,White,60+,High school or less,$80K+,0
+1370,Male,Black,18-29,Graduate degree,$40K-79K,1
+1371,Female,White,30-44,Bachelors,$80K+,0
+1372,Male,White,30-44,Bachelors,<40K,0
+1373,Female,White,30-44,High school or less,<40K,1
+1374,Female,Black,60+,Bachelors,$80K+,0
+1375,Male,Hispanic,45-59,High school or less,<40K,1
+1376,Female,Hispanic,60+,High school or less,<40K,0
+1377,Male,Hispanic,45-59,Some college,$40K-79K,1
+1378,Female,White,30-44,Some college,$40K-79K,0
+1379,Male,White,60+,Some college,$80K+,0
+1380,Female,Black,30-44,High school or less,<40K,0
+1381,Male,White,30-44,Some college,<40K,0
+1382,Male,White,45-59,High school or less,$40K-79K,1
+1383,Female,White,30-44,Graduate degree,$40K-79K,1
+1384,Male,White,18-29,Some college,$40K-79K,0
+1385,Female,White,45-59,Bachelors,$40K-79K,0
+1386,Male,Hispanic,45-59,Some college,$80K+,0
+1387,Female,White,30-44,High school or less,$80K+,0
+1388,Male,White,60+,Graduate degree,<40K,1
+1389,Female,White,45-59,Some college,$40K-79K,1
+1390,Male,Black,60+,Some college,$40K-79K,0
+1391,Male,White,18-29,Bachelors,$80K+,1
+1392,Male,Hispanic,45-59,High school or less,$80K+,0
+1393,Male,Hispanic,60+,Bachelors,<40K,0
+1394,Female,White,45-59,Some college,$40K-79K,1
+1395,Male,Hispanic,45-59,Some college,$40K-79K,1
+1396,Female,Other,30-44,High school or less,<40K,0
+1397,Male,Hispanic,18-29,High school or less,<40K,1
+1398,Male,Hispanic,45-59,Graduate degree,$40K-79K,1
+1399,Female,White,30-44,Bachelors,$40K-79K,0
+1400,Female,White,60+,High school or less,<40K,0
+1401,Male,White,30-44,High school or less,$40K-79K,0
+1402,Male,White,60+,Bachelors,<40K,0
+1403,Male,Other,60+,Some college,$40K-79K,1
+1404,Female,White,30-44,Some college,$40K-79K,0
+1405,Female,Hispanic,30-44,Some college,<40K,1
+1406,Male,Hispanic,60+,High school or less,$40K-79K,0
+1407,Female,Hispanic,60+,Bachelors,<40K,0
+1408,Female,Other,30-44,Graduate degree,$40K-79K,1
+1409,Female,White,30-44,High school or less,<40K,0
+1410,Female,White,45-59,Some college,$40K-79K,0
+1411,Male,White,45-59,Some college,<40K,0
+1412,Male,White,30-44,Some college,$40K-79K,0
+1413,Male,White,45-59,Some college,$80K+,0
+1414,Male,White,18-29,Bachelors,<40K,0
+1415,Female,Hispanic,18-29,Some college,$40K-79K,0
+1416,Female,White,30-44,Some college,<40K,0
+1417,Male,White,30-44,Some college,$40K-79K,1
+1418,Male,Black,30-44,High school or less,<40K,0
+1419,Male,White,45-59,High school or less,$40K-79K,1
+1420,Female,White,30-44,Bachelors,$40K-79K,1
+1421,Male,Hispanic,18-29,High school or less,$80K+,1
+1422,Female,Black,30-44,Bachelors,$40K-79K,0
+1423,Male,Hispanic,60+,Some college,$40K-79K,1
+1424,Male,White,30-44,Some college,$40K-79K,1
+1425,Female,Hispanic,30-44,Some college,$80K+,1
+1426,Female,Black,45-59,Some college,$80K+,0
+1427,Male,White,60+,High school or less,<40K,0
+1428,Female,Black,30-44,Some college,$80K+,1
+1429,Female,Hispanic,45-59,Bachelors,$40K-79K,0
+1430,Female,White,45-59,Bachelors,$80K+,0
+1431,Male,White,45-59,Some college,$80K+,0
+1432,Female,Other,18-29,Some college,<40K,0
+1433,Male,Hispanic,45-59,High school or less,$40K-79K,1
+1434,Female,White,18-29,High school or less,<40K,0
+1435,Male,Black,45-59,High school or less,<40K,1
+1436,Male,White,45-59,Graduate degree,<40K,0
+1437,Male,White,30-44,High school or less,$40K-79K,0
+1438,Female,White,60+,High school or less,<40K,1
+1439,Male,Asian,18-29,Some college,<40K,1
+1440,Female,Asian,60+,High school or less,$40K-79K,1
+1441,Female,White,45-59,Bachelors,<40K,0
+1442,Male,White,30-44,High school or less,<40K,0
+1443,Female,White,18-29,High school or less,<40K,0
+1444,Male,Other,60+,Bachelors,$40K-79K,0
+1445,Female,Other,18-29,Some college,$40K-79K,0
+1446,Male,Black,18-29,Bachelors,<40K,1
+1447,Female,Hispanic,30-44,Some college,$80K+,1
+1448,Female,Black,45-59,Some college,$40K-79K,0
+1449,Female,White,45-59,Bachelors,$40K-79K,0
+1450,Female,White,18-29,High school or less,$40K-79K,1
+1451,Female,White,30-44,Some college,$40K-79K,0
+1452,Female,Black,30-44,Some college,$40K-79K,0
+1453,Female,Black,30-44,Some college,<40K,0
+1454,Female,White,30-44,Bachelors,<40K,0
+1455,Male,Asian,45-59,Graduate degree,$80K+,0
+1456,Female,White,30-44,Graduate degree,<40K,0
+1457,Female,White,30-44,Bachelors,$40K-79K,0
+1458,Female,Black,30-44,Some college,$80K+,0
+1459,Male,Black,60+,High school or less,$40K-79K,1
+1460,Female,Black,60+,Some college,$40K-79K,1
+1461,Male,White,60+,Some college,$40K-79K,0
+1462,Female,White,30-44,Some college,<40K,0
+1463,Male,Black,18-29,Graduate degree,$40K-79K,1
+1464,Female,White,30-44,Some college,$40K-79K,0
+1465,Other,White,30-44,Some college,$80K+,1
+1466,Male,Black,45-59,Some college,$80K+,0
+1467,Female,White,60+,Bachelors,$80K+,0
+1468,Male,Black,60+,Bachelors,$80K+,1
+1469,Female,Hispanic,60+,Bachelors,$40K-79K,0
+1470,Female,White,30-44,Some college,$40K-79K,1
+1471,Female,White,45-59,Bachelors,$40K-79K,0
+1472,Female,Hispanic,30-44,High school or less,$40K-79K,0
+1473,Female,Black,18-29,Graduate degree,$80K+,1
+1474,Male,Black,45-59,Some college,<40K,0
+1475,Male,Hispanic,18-29,Some college,$80K+,0
+1476,Female,Hispanic,30-44,Some college,$80K+,0
+1477,Female,Other,30-44,Bachelors,$80K+,1
+1478,Female,White,45-59,High school or less,$80K+,1
+1479,Female,White,60+,Graduate degree,<40K,0
+1480,Male,White,30-44,Some college,<40K,1
+1481,Female,White,60+,Some college,<40K,0
+1482,Male,White,30-44,High school or less,<40K,0
+1483,Female,White,30-44,Some college,$40K-79K,1
+1484,Male,Asian,45-59,Some college,$80K+,0
+1485,Male,White,45-59,Some college,$80K+,0
+1486,Male,White,60+,Bachelors,$40K-79K,0
+1487,Male,White,30-44,Some college,<40K,0
+1488,Female,White,45-59,Graduate degree,<40K,0
+1489,Male,White,45-59,Some college,<40K,1
+1490,Male,White,60+,Bachelors,$40K-79K,0
+1491,Male,White,18-29,High school or less,$40K-79K,1
+1492,Male,Black,60+,Some college,<40K,0
+1493,Male,Hispanic,45-59,Some college,$40K-79K,0
+1494,Male,Hispanic,30-44,Some college,<40K,1
+1495,Female,Black,45-59,Graduate degree,$40K-79K,0
+1496,Female,White,30-44,High school or less,$40K-79K,0
+1497,Female,Hispanic,45-59,High school or less,$40K-79K,0
+1498,Male,Hispanic,60+,Graduate degree,$40K-79K,0
+1499,Male,White,45-59,High school or less,$80K+,0
+1500,Female,Hispanic,45-59,Bachelors,<40K,1
+1501,Female,White,45-59,Some college,$40K-79K,0
+1502,Male,Hispanic,18-29,Bachelors,$40K-79K,0
+1503,Male,Other,30-44,High school or less,$40K-79K,1
+1504,Male,White,45-59,High school or less,$80K+,0
+1505,Male,Hispanic,30-44,Some college,$40K-79K,1
+1506,Male,Black,18-29,Graduate degree,$40K-79K,1
+1507,Female,Other,45-59,Some college,<40K,1
+1508,Female,White,30-44,Some college,$40K-79K,0
+1509,Female,Hispanic,30-44,Bachelors,<40K,0
+1510,Female,White,45-59,Graduate degree,<40K,0
+1511,Female,White,18-29,Bachelors,$40K-79K,0
+1512,Female,White,60+,Graduate degree,$40K-79K,0
+1513,Female,Other,60+,High school or less,<40K,1
+1514,Male,Hispanic,45-59,High school or less,$40K-79K,0
+1515,Male,Hispanic,18-29,Bachelors,$40K-79K,0
+1516,Male,Asian,60+,Bachelors,<40K,0
+1517,Female,White,60+,Some college,$40K-79K,0
+1518,Female,White,60+,High school or less,$40K-79K,0
+1519,Male,White,18-29,Bachelors,$40K-79K,0
+1520,Female,White,45-59,High school or less,$40K-79K,1
+1521,Male,White,60+,Some college,$40K-79K,1
+1522,Female,White,45-59,Some college,$40K-79K,0
+1523,Male,White,45-59,Some college,$80K+,0
+1524,Male,White,45-59,Bachelors,$40K-79K,0
+1525,Male,White,45-59,Some college,<40K,0
+1526,Male,White,18-29,Bachelors,$40K-79K,0
+1527,Male,Other,45-59,Some college,$80K+,0
+1528,Male,Hispanic,18-29,Some college,<40K,1
+1529,Female,Other,30-44,Bachelors,$80K+,1
+1530,Female,White,30-44,Some college,$80K+,1
+1531,Male,White,45-59,High school or less,<40K,1
+1532,Female,Hispanic,18-29,High school or less,$80K+,0
+1533,Female,White,45-59,High school or less,$40K-79K,1
+1534,Male,White,60+,Some college,$80K+,0
+1535,Male,White,18-29,Bachelors,$40K-79K,1
+1536,Male,White,18-29,Bachelors,$40K-79K,0
+1537,Male,White,18-29,Bachelors,$40K-79K,0
+1538,Female,White,60+,Some college,$80K+,0
+1539,Male,Black,45-59,Some college,<40K,0
+1540,Female,White,45-59,Some college,$40K-79K,1
+1541,Female,White,18-29,High school or less,<40K,1
+1542,Male,Hispanic,45-59,High school or less,$40K-79K,0
+1543,Female,White,60+,Some college,$40K-79K,1
+1544,Male,White,60+,Graduate degree,$40K-79K,0
+1545,Female,Hispanic,45-59,High school or less,$40K-79K,0
+1546,Male,White,18-29,High school or less,<40K,0
+1547,Female,White,18-29,Bachelors,<40K,0
+1548,Female,White,18-29,Some college,<40K,1
+1549,Male,White,30-44,Bachelors,$40K-79K,0
+1550,Female,White,18-29,Bachelors,$80K+,0
+1551,Female,Hispanic,30-44,Graduate degree,<40K,0
+1552,Female,White,30-44,Some college,$80K+,1
+1553,Female,White,60+,Bachelors,$40K-79K,1
+1554,Female,White,45-59,Some college,$40K-79K,1
+1555,Male,White,60+,Bachelors,$40K-79K,1
+1556,Male,Black,45-59,Some college,$80K+,0
+1557,Female,White,18-29,High school or less,<40K,1
+1558,Male,White,45-59,Some college,$40K-79K,1
+1559,Female,White,30-44,Some college,$40K-79K,0
+1560,Female,White,45-59,Bachelors,$40K-79K,1
+1561,Male,White,30-44,Bachelors,$80K+,1
+1562,Male,Hispanic,60+,Bachelors,<40K,0
+1563,Female,White,30-44,High school or less,$40K-79K,1
+1564,Male,White,30-44,Bachelors,$40K-79K,1
+1565,Female,White,60+,Some college,$40K-79K,1
+1566,Male,Black,18-29,Graduate degree,$40K-79K,0
+1567,Female,White,45-59,Graduate degree,$40K-79K,0
+1568,Male,Black,45-59,High school or less,$80K+,0
+1569,Female,Hispanic,60+,Bachelors,$40K-79K,0
+1570,Male,Hispanic,60+,High school or less,$80K+,1
+1571,Female,White,60+,Some college,$40K-79K,0
+1572,Male,White,18-29,Some college,<40K,0
+1573,Female,Hispanic,60+,High school or less,<40K,0
+1574,Female,Other,45-59,Bachelors,<40K,0
+1575,Male,Hispanic,45-59,High school or less,$40K-79K,1
+1576,Male,White,18-29,High school or less,$40K-79K,0
+1577,Male,White,45-59,Some college,$40K-79K,1
+1578,Female,White,60+,Bachelors,$40K-79K,1
+1579,Female,Hispanic,60+,Graduate degree,<40K,0
+1580,Female,White,30-44,Bachelors,<40K,1
+1581,Male,White,18-29,Bachelors,<40K,0
+1582,Male,Hispanic,30-44,Some college,$40K-79K,0
+1583,Female,White,60+,High school or less,<40K,1
+1584,Female,Hispanic,45-59,High school or less,<40K,0
+1585,Female,White,45-59,Some college,$80K+,1
+1586,Male,White,18-29,Bachelors,$80K+,0
+1587,Female,White,30-44,Some college,<40K,0
+1588,Male,Hispanic,45-59,Bachelors,$40K-79K,0
+1589,Male,White,60+,Some college,$40K-79K,1
+1590,Female,White,45-59,High school or less,$80K+,1
+1591,Female,Asian,30-44,High school or less,$40K-79K,0
+1592,Other,White,45-59,Bachelors,<40K,1
+1593,Male,White,18-29,Bachelors,$40K-79K,1
+1594,Male,White,60+,Graduate degree,$40K-79K,0
+1595,Female,White,30-44,High school or less,<40K,1
+1596,Female,Black,45-59,Graduate degree,$40K-79K,1
+1597,Male,White,30-44,High school or less,$40K-79K,0
+1598,Male,White,45-59,High school or less,$40K-79K,0
+1599,Male,White,45-59,Graduate degree,<40K,0
+1600,Female,Black,45-59,Some college,$40K-79K,0
+1601,Male,White,30-44,Bachelors,<40K,0
+1602,Male,White,30-44,High school or less,$80K+,1
+1603,Male,White,18-29,Some college,<40K,1
+1604,Male,White,45-59,Graduate degree,<40K,1
+1605,Male,White,18-29,Some college,$40K-79K,1
+1606,Female,White,45-59,Bachelors,$80K+,1
+1607,Male,Hispanic,60+,High school or less,$80K+,0
+1608,Female,White,60+,Bachelors,$40K-79K,0
+1609,Male,Asian,30-44,Some college,<40K,0
+1610,Female,Other,45-59,High school or less,$40K-79K,0
+1611,Female,White,18-29,Some college,$40K-79K,1
+1612,Female,White,45-59,High school or less,<40K,0
+1613,Female,White,60+,Graduate degree,$80K+,0
+1614,Male,Hispanic,30-44,Some college,<40K,1
+1615,Male,White,30-44,High school or less,$80K+,0
+1616,Female,White,60+,Some college,$80K+,1
+1617,Other,White,60+,Some college,$40K-79K,0
+1618,Female,Hispanic,30-44,Bachelors,$80K+,0
+1619,Female,Hispanic,45-59,Graduate degree,$40K-79K,1
+1620,Female,White,18-29,Some college,<40K,0
+1621,Male,Black,18-29,Graduate degree,$40K-79K,1
+1622,Male,White,60+,Some college,<40K,0
+1623,Female,White,60+,High school or less,$40K-79K,0
+1624,Female,Hispanic,60+,Bachelors,$40K-79K,0
+1625,Male,White,18-29,Some college,$40K-79K,1
+1626,Female,White,60+,Bachelors,$40K-79K,0
+1627,Male,White,30-44,Graduate degree,$40K-79K,0
+1628,Female,Hispanic,30-44,Some college,$80K+,0
+1629,Male,Hispanic,45-59,Graduate degree,<40K,0
+1630,Male,Black,18-29,Bachelors,$40K-79K,0
+1631,Female,Hispanic,60+,Some college,<40K,1
+1632,Male,White,45-59,Bachelors,$40K-79K,1
+1633,Female,White,18-29,Some college,<40K,1
+1634,Female,White,18-29,Graduate degree,$40K-79K,0
+1635,Female,White,18-29,Bachelors,<40K,0
+1636,Male,White,18-29,High school or less,<40K,0
+1637,Male,Asian,45-59,Some college,$80K+,0
+1638,Male,White,60+,Bachelors,<40K,0
+1639,Other,White,18-29,High school or less,$40K-79K,0
+1640,Female,White,18-29,High school or less,<40K,0
+1641,Female,White,45-59,Some college,$40K-79K,1
+1642,Female,Hispanic,60+,Some college,$40K-79K,1
+1643,Female,White,30-44,Some college,$40K-79K,0
+1644,Female,White,30-44,Some college,<40K,1
+1645,Male,Hispanic,45-59,High school or less,$40K-79K,0
+1646,Female,White,30-44,Bachelors,$40K-79K,0
+1647,Male,White,18-29,Some college,$80K+,1
+1648,Female,White,45-59,High school or less,$40K-79K,0
+1649,Female,White,45-59,Some college,$40K-79K,0
+1650,Female,Other,45-59,Some college,<40K,1
+1651,Male,Hispanic,45-59,High school or less,<40K,0
+1652,Male,White,45-59,High school or less,<40K,0
+1653,Male,Hispanic,30-44,High school or less,<40K,0
+1654,Male,White,30-44,Bachelors,<40K,0
+1655,Male,White,18-29,Bachelors,$40K-79K,0
+1656,Female,White,18-29,Bachelors,$40K-79K,1
+1657,Female,White,45-59,Bachelors,$80K+,1
+1658,Male,White,60+,Bachelors,<40K,1
+1659,Male,Black,60+,Some college,$40K-79K,0
+1660,Male,Asian,45-59,Bachelors,$80K+,1
+1661,Female,White,18-29,High school or less,$40K-79K,1
+1662,Female,White,18-29,Bachelors,<40K,1
+1663,Female,White,60+,Bachelors,<40K,0
+1664,Female,White,45-59,Some college,<40K,1
+1665,Other,White,45-59,Some college,$40K-79K,1
+1666,Female,White,60+,Some college,$40K-79K,0
+1667,Male,Hispanic,45-59,Bachelors,<40K,0
+1668,Female,White,60+,Bachelors,<40K,1
+1669,Male,White,18-29,Graduate degree,$40K-79K,0
+1670,Female,White,45-59,Some college,$80K+,0
+1671,Male,White,60+,Bachelors,$40K-79K,0
+1672,Female,White,30-44,Some college,$40K-79K,0
+1673,Female,Black,45-59,Graduate degree,$40K-79K,0
+1674,Female,White,30-44,Some college,<40K,1
+1675,Female,Black,60+,Some college,$40K-79K,0
+1676,Male,White,18-29,Some college,$40K-79K,1
+1677,Male,White,45-59,Bachelors,$80K+,1
+1678,Male,White,18-29,Graduate degree,<40K,1
+1679,Male,Hispanic,45-59,High school or less,$40K-79K,0
+1680,Female,White,18-29,High school or less,$40K-79K,0
+1681,Male,Hispanic,30-44,Graduate degree,$40K-79K,1
+1682,Female,White,45-59,Some college,<40K,0
+1683,Female,Hispanic,60+,Bachelors,$40K-79K,0
+1684,Female,White,30-44,Some college,$80K+,0
+1685,Male,Black,18-29,High school or less,$40K-79K,1
+1686,Female,White,60+,Bachelors,$40K-79K,0
+1687,Female,Asian,45-59,Bachelors,<40K,0
+1688,Male,White,60+,Some college,<40K,1
+1689,Female,White,18-29,Some college,$40K-79K,0
+1690,Female,White,45-59,Bachelors,$80K+,1
+1691,Male,Hispanic,30-44,High school or less,$80K+,0
+1692,Female,White,18-29,Graduate degree,$40K-79K,0
+1693,Male,Hispanic,45-59,Some college,$40K-79K,1
+1694,Male,White,45-59,Some college,$80K+,1
+1695,Male,White,60+,Graduate degree,$40K-79K,0
+1696,Male,White,30-44,Bachelors,$40K-79K,1
+1697,Male,Other,30-44,Some college,<40K,0
+1698,Male,Black,30-44,Bachelors,$40K-79K,1
+1699,Female,Asian,60+,Some college,$40K-79K,1
+1700,Female,White,30-44,Some college,$80K+,0
+1701,Female,Black,30-44,Graduate degree,$80K+,0
+1702,Male,Black,30-44,Bachelors,<40K,0
+1703,Male,White,45-59,Bachelors,$40K-79K,0
+1704,Female,Hispanic,30-44,Some college,$80K+,0
+1705,Male,Asian,60+,High school or less,$40K-79K,0
+1706,Male,Hispanic,30-44,High school or less,<40K,0
+1707,Female,Hispanic,60+,Some college,<40K,1
+1708,Male,White,18-29,Bachelors,$40K-79K,0
+1709,Female,White,45-59,Some college,$40K-79K,0
+1710,Female,Other,60+,Bachelors,$40K-79K,0
+1711,Male,White,18-29,High school or less,<40K,1
+1712,Male,Black,60+,Some college,$80K+,0
+1713,Female,Black,45-59,High school or less,<40K,0
+1714,Male,Black,60+,Some college,<40K,0
+1715,Male,Other,45-59,High school or less,$40K-79K,0
+1716,Other,White,30-44,Graduate degree,$40K-79K,0
+1717,Male,White,18-29,High school or less,<40K,0
+1718,Female,White,30-44,Graduate degree,<40K,1
+1719,Female,White,18-29,Some college,<40K,0
+1720,Male,White,18-29,Graduate degree,$40K-79K,1
+1721,Male,White,18-29,Some college,$80K+,1
+1722,Male,Hispanic,30-44,Graduate degree,$40K-79K,0
+1723,Male,Asian,60+,High school or less,$40K-79K,0
+1724,Male,White,18-29,Bachelors,$40K-79K,0
+1725,Female,White,18-29,Graduate degree,<40K,1
+1726,Male,Asian,45-59,High school or less,$80K+,0
+1727,Female,White,18-29,High school or less,$80K+,0
+1728,Other,White,18-29,Some college,<40K,1
+1729,Female,White,18-29,Graduate degree,<40K,0
+1730,Female,White,60+,Some college,<40K,0
+1731,Male,White,60+,Some college,<40K,1
+1732,Female,Other,30-44,High school or less,$40K-79K,0
+1733,Female,White,45-59,High school or less,$40K-79K,0
+1734,Male,White,45-59,Bachelors,$80K+,1
+1735,Male,White,45-59,High school or less,$40K-79K,0
+1736,Female,White,45-59,Bachelors,$40K-79K,1
+1737,Male,Black,45-59,Graduate degree,$40K-79K,1
+1738,Male,Hispanic,30-44,High school or less,<40K,0
+1739,Male,Hispanic,18-29,Bachelors,$40K-79K,0
+1740,Male,White,45-59,High school or less,$40K-79K,0
+1741,Female,Hispanic,60+,Bachelors,<40K,0
+1742,Female,Hispanic,45-59,High school or less,<40K,0
+1743,Female,Hispanic,60+,Bachelors,$80K+,0
+1744,Male,White,60+,Some college,$40K-79K,1
+1745,Male,White,18-29,Some college,<40K,1
+1746,Male,White,45-59,Some college,$40K-79K,0
+1747,Male,Black,45-59,High school or less,$80K+,0
+1748,Male,White,60+,Bachelors,$40K-79K,0
+1749,Female,White,60+,Some college,<40K,0
+1750,Male,Hispanic,45-59,Bachelors,$80K+,0
+1751,Female,Hispanic,30-44,High school or less,$40K-79K,0
+1752,Male,Hispanic,60+,Bachelors,<40K,1
+1753,Male,White,18-29,High school or less,$40K-79K,1
+1754,Male,Black,60+,Some college,$80K+,0
+1755,Female,White,60+,High school or less,<40K,0
+1756,Female,White,30-44,Bachelors,<40K,0
+1757,Female,White,45-59,Some college,<40K,1
+1758,Male,White,30-44,Graduate degree,$80K+,0
+1759,Male,White,30-44,Graduate degree,<40K,1
+1760,Female,Hispanic,30-44,High school or less,$40K-79K,0
+1761,Male,White,60+,Bachelors,$80K+,1
+1762,Female,Hispanic,60+,High school or less,<40K,0
+1763,Male,White,60+,Some college,$80K+,1
+1764,Male,White,18-29,Bachelors,$80K+,1
+1765,Male,White,60+,Bachelors,$80K+,0
+1766,Male,White,45-59,Bachelors,<40K,1
+1767,Female,White,30-44,Some college,$40K-79K,0
+1768,Male,White,18-29,Some college,$80K+,1
+1769,Male,White,30-44,High school or less,$80K+,0
+1770,Male,White,60+,Bachelors,<40K,0
+1771,Male,White,45-59,Some college,$80K+,0
+1772,Female,Hispanic,45-59,Bachelors,$40K-79K,0
+1773,Female,White,30-44,High school or less,<40K,0
+1774,Female,Hispanic,45-59,Some college,$40K-79K,0
+1775,Female,Black,18-29,Some college,$80K+,1
+1776,Male,Asian,30-44,High school or less,$40K-79K,0
+1777,Female,Hispanic,45-59,Some college,$40K-79K,0
+1778,Male,White,18-29,Bachelors,$80K+,1
+1779,Male,Black,60+,Graduate degree,$40K-79K,1
+1780,Female,Hispanic,30-44,Some college,$40K-79K,1
+1781,Male,White,45-59,Some college,$40K-79K,0
+1782,Female,White,30-44,High school or less,$40K-79K,0
+1783,Male,White,45-59,Graduate degree,$40K-79K,1
+1784,Female,Hispanic,18-29,High school or less,$80K+,1
+1785,Female,Hispanic,18-29,Graduate degree,$40K-79K,1
+1786,Female,White,60+,Some college,$80K+,1
+1787,Female,White,30-44,Some college,<40K,1
+1788,Female,White,60+,Graduate degree,<40K,0
+1789,Male,White,60+,High school or less,$40K-79K,0
+1790,Female,Other,30-44,Some college,<40K,0
+1791,Male,White,30-44,Some college,<40K,1
+1792,Female,White,45-59,High school or less,$40K-79K,0
+1793,Female,White,60+,Some college,<40K,1
+1794,Female,Hispanic,60+,Bachelors,<40K,0
+1795,Male,White,45-59,Bachelors,$40K-79K,0
+1796,Male,Black,60+,High school or less,$40K-79K,1
+1797,Female,White,18-29,Graduate degree,$80K+,1
+1798,Male,White,60+,High school or less,$40K-79K,0
+1799,Male,White,60+,High school or less,$40K-79K,0
+1800,Male,White,18-29,Some college,$80K+,1
+1801,Female,White,30-44,High school or less,$80K+,0
+1802,Female,Asian,18-29,High school or less,<40K,0
+1803,Male,Hispanic,30-44,Graduate degree,<40K,0
+1804,Male,Other,60+,Some college,$40K-79K,1
+1805,Male,White,30-44,High school or less,$40K-79K,1
+1806,Female,Other,18-29,High school or less,$80K+,0
+1807,Female,White,30-44,Bachelors,$40K-79K,1
+1808,Male,White,60+,Graduate degree,$40K-79K,0
+1809,Male,White,45-59,Some college,$80K+,0
+1810,Male,White,30-44,High school or less,$40K-79K,0
+1811,Female,Black,18-29,High school or less,<40K,1
+1812,Female,White,60+,High school or less,$80K+,1
+1813,Male,White,60+,High school or less,<40K,0
+1814,Male,Black,30-44,Some college,$80K+,0
+1815,Male,White,18-29,High school or less,$80K+,1
+1816,Female,White,18-29,Some college,$40K-79K,0
+1817,Male,White,18-29,Some college,$40K-79K,0
+1818,Female,Hispanic,45-59,Graduate degree,$40K-79K,0
+1819,Female,Hispanic,60+,Graduate degree,$40K-79K,1
+1820,Male,White,45-59,Some college,$40K-79K,0
+1821,Male,White,60+,Some college,$40K-79K,1
+1822,Male,White,30-44,Some college,$80K+,0
+1823,Female,Hispanic,45-59,Some college,$40K-79K,0
+1824,Female,White,45-59,Bachelors,<40K,1
+1825,Female,White,18-29,Some college,$40K-79K,1
+1826,Female,White,30-44,Graduate degree,$80K+,1
+1827,Male,White,45-59,Graduate degree,$40K-79K,0
+1828,Female,White,18-29,Some college,$40K-79K,1
+1829,Female,Hispanic,30-44,Some college,$80K+,0
+1830,Male,White,45-59,High school or less,$40K-79K,0
+1831,Female,White,60+,High school or less,$40K-79K,0
+1832,Female,Hispanic,45-59,Some college,$80K+,1
+1833,Female,Hispanic,60+,High school or less,<40K,1
+1834,Female,White,30-44,Graduate degree,$80K+,0
+1835,Female,White,60+,High school or less,<40K,0
+1836,Female,White,45-59,Some college,<40K,0
+1837,Male,Asian,60+,Bachelors,$80K+,1
+1838,Male,White,30-44,Bachelors,<40K,1
+1839,Female,Asian,45-59,Some college,$40K-79K,0
+1840,Male,Black,45-59,Graduate degree,$80K+,0
+1841,Male,White,30-44,Some college,$80K+,1
+1842,Male,White,18-29,Some college,$80K+,0
+1843,Male,White,18-29,High school or less,<40K,1
+1844,Female,White,18-29,Some college,$40K-79K,1
+1845,Female,White,60+,Bachelors,<40K,1
+1846,Male,Black,30-44,Bachelors,$40K-79K,0
+1847,Male,Other,30-44,Bachelors,$80K+,0
+1848,Male,White,45-59,Some college,$40K-79K,1
+1849,Female,Black,30-44,High school or less,$40K-79K,0
+1850,Female,White,45-59,High school or less,$40K-79K,1
+1851,Male,White,18-29,Some college,$40K-79K,1
+1852,Female,White,60+,Bachelors,$80K+,1
+1853,Female,Black,60+,Bachelors,<40K,1
+1854,Female,Asian,60+,Some college,$40K-79K,1
+1855,Female,Black,30-44,Some college,$80K+,0
+1856,Male,White,60+,Some college,$40K-79K,0
+1857,Female,White,18-29,Some college,<40K,0
+1858,Male,White,18-29,High school or less,$40K-79K,0
+1859,Female,White,18-29,High school or less,$40K-79K,1
+1860,Female,Hispanic,45-59,High school or less,<40K,1
+1861,Female,Hispanic,45-59,High school or less,$80K+,1
+1862,Female,Black,45-59,High school or less,$40K-79K,0
+1863,Male,White,18-29,High school or less,$80K+,0
+1864,Female,White,30-44,Bachelors,$80K+,0
+1865,Female,White,45-59,Some college,$40K-79K,1
+1866,Female,White,30-44,Graduate degree,<40K,0
+1867,Male,White,45-59,High school or less,$40K-79K,0
+1868,Male,Black,30-44,Some college,<40K,0
+1869,Male,Black,60+,Some college,$80K+,1
+1870,Female,White,45-59,High school or less,<40K,0
+1871,Female,White,30-44,Bachelors,<40K,1
+1872,Male,White,30-44,High school or less,$40K-79K,0
+1873,Female,White,45-59,Graduate degree,<40K,0
+1874,Female,Hispanic,60+,Graduate degree,<40K,0
+1875,Female,White,30-44,Some college,$40K-79K,1
+1876,Female,White,30-44,Some college,<40K,1
+1877,Female,White,60+,Bachelors,<40K,1
+1878,Female,Hispanic,45-59,Some college,$40K-79K,0
+1879,Male,White,30-44,Bachelors,$40K-79K,0
+1880,Female,White,45-59,High school or less,$40K-79K,1
+1881,Female,White,30-44,High school or less,$40K-79K,0
+1882,Female,Hispanic,45-59,Some college,$40K-79K,0
+1883,Female,Asian,30-44,Some college,$40K-79K,0
+1884,Female,White,60+,Graduate degree,$80K+,0
+1885,Male,Hispanic,45-59,High school or less,<40K,1
+1886,Male,Asian,45-59,Bachelors,$40K-79K,0
+1887,Male,Asian,45-59,High school or less,$80K+,0
+1888,Male,Black,60+,Some college,$80K+,0
+1889,Female,Black,60+,Some college,<40K,0
+1890,Other,White,45-59,Some college,<40K,0
+1891,Male,Hispanic,45-59,High school or less,$40K-79K,1
+1892,Male,White,45-59,Some college,<40K,0
+1893,Female,Black,45-59,Bachelors,$80K+,0
+1894,Male,White,18-29,Some college,$40K-79K,1
+1895,Female,Hispanic,45-59,Some college,$40K-79K,0
+1896,Female,Hispanic,30-44,Bachelors,<40K,0
+1897,Female,White,60+,Bachelors,$40K-79K,0
+1898,Male,Hispanic,30-44,Some college,$40K-79K,1
+1899,Male,White,60+,Some college,$80K+,1
+1900,Female,Hispanic,45-59,Graduate degree,<40K,0
+1901,Female,White,45-59,Some college,<40K,0
+1902,Male,White,45-59,High school or less,$40K-79K,1
+1903,Female,Asian,18-29,Some college,<40K,1
+1904,Male,White,30-44,Bachelors,$40K-79K,1
+1905,Female,Hispanic,18-29,High school or less,$80K+,1
+1906,Male,White,45-59,Graduate degree,$40K-79K,1
+1907,Female,White,30-44,High school or less,$80K+,1
+1908,Male,White,60+,Bachelors,<40K,0
+1909,Male,White,30-44,Some college,<40K,0
+1910,Male,White,18-29,Some college,<40K,0
+1911,Male,White,30-44,Graduate degree,$40K-79K,0
+1912,Female,White,60+,Some college,$80K+,1
+1913,Other,White,45-59,Some college,<40K,0
+1914,Male,Other,30-44,High school or less,$40K-79K,1
+1915,Male,Other,45-59,High school or less,$40K-79K,1
+1916,Female,White,18-29,High school or less,$80K+,1
+1917,Female,Black,60+,Bachelors,<40K,1
+1918,Female,White,45-59,High school or less,<40K,1
+1919,Male,Black,30-44,High school or less,<40K,0
+1920,Male,Hispanic,45-59,Some college,$40K-79K,1
+1921,Female,Asian,18-29,Bachelors,<40K,1
+1922,Male,White,60+,Bachelors,$80K+,0
+1923,Female,Hispanic,18-29,High school or less,$40K-79K,0
+1924,Male,White,45-59,High school or less,$40K-79K,1
+1925,Female,Other,30-44,Graduate degree,$40K-79K,0
+1926,Male,White,45-59,Some college,<40K,1
+1927,Female,Black,60+,Graduate degree,$40K-79K,0
+1928,Male,Black,45-59,Graduate degree,$80K+,0
+1929,Female,Black,45-59,Bachelors,$80K+,0
+1930,Male,White,60+,High school or less,$80K+,0
+1931,Female,Asian,18-29,Bachelors,$80K+,0
+1932,Female,White,30-44,Bachelors,<40K,0
+1933,Female,Black,30-44,Some college,<40K,0
+1934,Female,White,60+,Some college,<40K,0
+1935,Female,White,30-44,Some college,$40K-79K,0
+1936,Female,White,45-59,High school or less,<40K,0
+1937,Male,White,45-59,Some college,$40K-79K,1
+1938,Female,White,30-44,Some college,$40K-79K,0
+1939,Female,White,30-44,Some college,$80K+,0
+1940,Male,White,30-44,Some college,$40K-79K,0
+1941,Male,Hispanic,30-44,Some college,$80K+,1
+1942,Male,Hispanic,30-44,Bachelors,<40K,0
+1943,Female,White,18-29,Graduate degree,<40K,0
+1944,Female,White,60+,High school or less,$40K-79K,1
+1945,Female,White,60+,Some college,<40K,1
+1946,Female,White,30-44,High school or less,<40K,1
+1947,Male,Black,30-44,Bachelors,$40K-79K,0
+1948,Male,Black,18-29,Bachelors,<40K,0
+1949,Male,White,45-59,Graduate degree,$40K-79K,1
+1950,Male,White,60+,Some college,$40K-79K,1
+1951,Male,White,18-29,Graduate degree,$40K-79K,0
+1952,Male,Hispanic,18-29,High school or less,$40K-79K,0
+1953,Female,Other,60+,Bachelors,$40K-79K,0
+1954,Female,White,45-59,High school or less,<40K,0
+1955,Other,White,18-29,Graduate degree,<40K,1
+1956,Female,Hispanic,45-59,Some college,$40K-79K,1
+1957,Female,Asian,30-44,Bachelors,$40K-79K,1
+1958,Male,White,30-44,Bachelors,$80K+,0
+1959,Female,White,60+,High school or less,$40K-79K,0
+1960,Female,White,60+,High school or less,<40K,1
+1961,Male,White,30-44,Graduate degree,$40K-79K,0
+1962,Male,White,60+,Some college,$40K-79K,1
+1963,Female,White,30-44,High school or less,$40K-79K,0
+1964,Male,White,60+,Some college,$40K-79K,0
+1965,Female,White,45-59,Some college,$40K-79K,0
+1966,Female,Hispanic,60+,High school or less,$40K-79K,0
+1967,Male,White,60+,Some college,$40K-79K,1
+1968,Male,White,18-29,High school or less,<40K,0
+1969,Male,White,60+,Some college,$40K-79K,0
+1970,Male,White,60+,Graduate degree,<40K,1
+1971,Male,Other,60+,Graduate degree,<40K,0
+1972,Female,White,30-44,Bachelors,$80K+,1
+1973,Male,White,60+,High school or less,$80K+,0
+1974,Female,Black,60+,Graduate degree,<40K,0
+1975,Male,White,30-44,Some college,$40K-79K,0
+1976,Female,Hispanic,60+,High school or less,<40K,1
+1977,Male,White,18-29,Graduate degree,$40K-79K,1
+1978,Male,White,18-29,Bachelors,$80K+,0
+1979,Female,White,45-59,Bachelors,$80K+,0
+1980,Female,White,45-59,Bachelors,$40K-79K,0
+1981,Male,Hispanic,45-59,High school or less,$40K-79K,0
+1982,Female,Hispanic,18-29,High school or less,$40K-79K,0
+1983,Male,White,60+,Bachelors,$40K-79K,0
+1984,Male,White,18-29,High school or less,$80K+,1
+1985,Male,Hispanic,18-29,Some college,$80K+,1
+1986,Male,Asian,18-29,Bachelors,$40K-79K,0
+1987,Female,White,45-59,Bachelors,$40K-79K,0
+1988,Female,White,60+,Some college,<40K,0
+1989,Male,White,45-59,Bachelors,<40K,1
+1990,Female,Hispanic,60+,Bachelors,$80K+,1
+1991,Female,White,18-29,Bachelors,$40K-79K,0
+1992,Male,White,45-59,High school or less,$40K-79K,0
+1993,Female,Hispanic,45-59,Some college,$40K-79K,1
+1994,Male,White,45-59,Some college,$80K+,0
+1995,Female,White,18-29,High school or less,<40K,1
+1996,Female,White,45-59,Some college,$80K+,0
+1997,Female,White,45-59,High school or less,$80K+,1
+1998,Male,White,60+,Some college,$80K+,0
+1999,Male,White,45-59,Graduate degree,$40K-79K,1
+2000,Male,White,18-29,High school or less,<40K,0
